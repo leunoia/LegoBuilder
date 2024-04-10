@@ -1,0 +1,1224 @@
+toy_name,colection,price,discount,age,pieces,calification,llavero,original,adult,toy_name_en,price_usd
+Castillo de Himeji,Architecture,3999,0,18,2125,4.4,FALSE,TRUE,TRUE,Himeji Castle,243.1090875
+Ciudad de Nueva York,Architecture,1499,0,12,598,4,FALSE,TRUE,TRUE,New York City,91.12791253
+Londres,Architecture,999,0,12,468,4.2,FALSE,TRUE,TRUE,London,60.73167753
+París,Architecture,1299,0,12,649,3.5,FALSE,TRUE,TRUE,Paris,78.96941853
+Gran Pirámide de Guiza,Architecture,3499,0,18,1476,3.3,FALSE,TRUE,TRUE,Great Pyramid of Giza,212.7128525
+Taj Mahal,Architecture,2999,0,18,2022,5,FALSE,TRUE,TRUE,Taj Mahal,182.3166175
+Singapur,Architecture,1599,0,18,827,2.7,FALSE,TRUE,TRUE,Singapore,97.20715953
+Estatua de la Libertad,Architecture,2999,0,16,1685,4.8,FALSE,TRUE,TRUE,Statue of Liberty,182.3166175
+La Casa Blanca,Architecture,2599,0,18,1483,4.6,FALSE,TRUE,TRUE,The White House,157.9996295
+Batcueva: Caja Sombría,Batman™,9699,0,18,3981,4.4,FALSE,FALSE,TRUE,Batcave: Shadow Box,589.6261665
+Batmobile™: Caza de Batman™ vs. The Joker™,Batman™,1199,0,8,438,4.7,FALSE,FALSE,FALSE,Batmobile™: Batman™ Fighter vs. The Joker™,72.89017153
+LEGO® DC Batman™: Batmóvil Blindado,Batman™,6499,0,18,2049,4,FALSE,FALSE,TRUE,LEGO® DC Batman™: Armored Batmobile,395.0902625
+Batwing: Batman™ vs. The Joker™,Batman™,949,0,8,357,4.9,FALSE,FALSE,FALSE,Batwing: Batman™ vs. The Joker™,57.69205403
+Figura para Construir: Batman™,Batman™,829,0,8,275,4.7,FALSE,FALSE,FALSE,Buildable Figure: Batman™,50.39695763
+Batmóvil: Caza de The Penguin™,Batman™,799,0,8,392,5,FALSE,FALSE,FALSE,Batmobile: Hunt from The Penguin™,48.57318353
+Persecución en el Batmobile™: Batman™ vs. The Joker™,Batman™,679,0,4,54,4.9,FALSE,FALSE,FALSE,Batmobile™ Chase: Batman™ vs. The Joker™,41.27808713
+THE BATMAN: BATMOTO,Batman™,1299,0,9,641,4.8,FALSE,FALSE,FALSE,THE BATMAN: BATMOTO,78.96941853
+Llavero de Harley Quinn™,Batman™,149,0,6,1,3,TRUE,FALSE,FALSE,Harley Quinn™ Keychain,9.05807803
+Llavero de Batman™,Batman™,149,0,6,1,5,TRUE,FALSE,FALSE,Batman™ Keychain,9.05807803
+Jim Lee: Colección de Batman™,Batman™,3199,30,18,4167,4.8,FALSE,FALSE,TRUE,Jim Lee: Batman™ Collection,194.4751115
+THE BATMAN: BATMÓVIL,Batman™,2599,30,10,1360,4.7,FALSE,FALSE,FALSE,THE BATMAN: BATMOBILE,157.9996295
+Batman™ contra Harley Quinn™,Batman™,259,30,4,42,4.7,FALSE,FALSE,FALSE,Batman™ vs. Harley Quinn™,15.74524973
+EVA y WALL•E,BrickHeadz,359,0,10,155,5,FALSE,TRUE,FALSE,EVE and WALL•E,21.82449673
+Sonic the Hedgehog™,BrickHeadz,249,0,10,139,5,FALSE,TRUE,FALSE,Sonic the Hedgehog™,15.13732503
+Jake Sully y su Avatar,BrickHeadz,499,40,10,246,5,FALSE,TRUE,FALSE,Jake Sully and his Avatar,30.33544253
+100 Aniversario de Disney,BrickHeadz,999,40,10,501,4.7,FALSE,TRUE,FALSE,Disney's 100th Anniversary,60.73167753
+Héroes de la Batalla de Endor™,BrickHeadz,999,40,10,549,5,FALSE,TRUE,FALSE,Heroes of the Battle of Endor™,60.73167753
+Gandalf el Gris y Balrog™,BrickHeadz,499,0,10,348,4.7,FALSE,TRUE,FALSE,Gandalf the Gray and Balrog™,30.33544253
+"Harry, Hermione, Ron y Hagrid™",BrickHeadz,619,30,10,466,4.7,FALSE,TRUE,FALSE,"Harry, Hermione, Ron and Hagrid™",37.63053893
+Harry Potter™ y Cho Chang,BrickHeadz,499,0,10,267,5,FALSE,TRUE,FALSE,Harry Potter™ and Cho Chang,30.33544253
+Mi Yo de Ladrillos: FC Barcelona,BrickHeadz,499,30,10,530,5,FALSE,TRUE,FALSE,My Brick Self: FC Barcelona,30.33544253
+Draco Malfoy™ y Cedric Diggory,BrickHeadz,499,0,10,262,5,FALSE,TRUE,FALSE,Draco Malfoy™ and Cedric Diggory,30.33544253
+Obi-Wan Kenobi™ y Darth Vader™,BrickHeadz,499,0,10,260,4.6,FALSE,TRUE,FALSE,Obi-Wan Kenobi™ and Darth Vader™,30.33544253
+Frodo™ y Gollum™,BrickHeadz,359,20,10,184,4.7,FALSE,TRUE,FALSE,Frodo™ and Gollum™,21.82449673
+Mickey Mouse Fiesta de la Primavera,BrickHeadz,249,0,10,120,,FALSE,TRUE,FALSE,Mickey Mouse Spring Festival,15.13732503
+Bandido Tusken,BrickHeadz,249,0,10,152,4.8,FALSE,TRUE,FALSE,Tusken Bandit,15.13732503
+Miles “Tails” Prower,BrickHeadz,249,0,10,131,5,FALSE,TRUE,FALSE,Miles “Tails” Prower,15.13732503
+Cruella y Maléfica,BrickHeadz,499,0,10,320,4,FALSE,TRUE,FALSE,Cruella and Maleficent,30.33544253
+Vaiana y Mérida,BrickHeadz,499,0,10,410,5,FALSE,TRUE,FALSE,Moana and Merida,30.33544253
+Bailarín de la Danza del León,BrickHeadz,249,30,10,239,4.8,FALSE,TRUE,FALSE,Lion Dance Dancer,15.13732503
+Mi Yo de Ladrillos: Manchester United,BrickHeadz,499,30,10,530,4.6,FALSE,TRUE,FALSE,My Brick Self: Manchester United,30.33544253
+Aragorn™ y Arwen™,BrickHeadz,499,20,10,261,5,FALSE,TRUE,FALSE,Aragorn™ and Arwen™,30.33544253
+"Gilito McPato, Juanito, Jaimito y Jorgito",BrickHeadz,619,30,10,340,4.9,FALSE,TRUE,FALSE,"Gilito McPato, Juanito, Jaimito and Jorgito",37.63053893
+Kingsley Shacklebolt™ y Nymphadora Tonks™,BrickHeadz,499,20,10,250,5,FALSE,TRUE,FALSE,Kingsley Shacklebolt™ and Nymphadora Tonks™,30.33544253
+Pata Daisy,BrickHeadz,249,30,10,110,4.8,FALSE,TRUE,FALSE,Daisy Duck,15.13732503
+Iron Spider-Man,BrickHeadz,249,0,10,91,,FALSE,TRUE,FALSE,Iron Spider-Man,15.13732503
+Ahsoka Tano,BrickHeadz,249,30,10,164,4.8,FALSE,TRUE,FALSE,Ahsoka Tano,15.13732503
+San Bernardo,BrickHeadz,349,0,8,236,4.9,FALSE,TRUE,FALSE,Saint Bernard,21.21657203
+Goofy y Pluto,BrickHeadz,349,30,10,214,4.7,FALSE,TRUE,FALSE,Goofy and Pluto,21.21657203
+Pato Donald,BrickHeadz,249,30,10,90,4.8,FALSE,TRUE,FALSE,Donald Duck,15.13732503
+Zombi,BrickHeadz,249,30,10,81,4.6,FALSE,TRUE,FALSE,Zombie,15.13732503
+Stitch,BrickHeadz,249,0,10,152,,FALSE,TRUE,FALSE,Stitch,15.13732503
+Groot en Maceta,BrickHeadz,249,0,10,113,,FALSE,TRUE,FALSE,Groot in Pot,15.13732503
+Chip y Chop,BrickHeadz,499,30,10,226,5,FALSE,TRUE,FALSE,Chip and Chop,30.33544253
+Bulldog Francés,BrickHeadz,349,0,8,237,4.7,FALSE,TRUE,FALSE,French Bulldog,21.21657203
+Profesores de Hogwarts™,BrickHeadz,999,30,10,601,4.8,FALSE,TRUE,FALSE,Hogwarts™ Professors,60.73167753
+Woody y Bo Peep,BrickHeadz,499,30,10,296,4.9,FALSE,TRUE,FALSE,Woody and Bo Peep,30.33544253
+El Mandaloriano y el Niño,BrickHeadz,499,0,10,295,4.7,FALSE,TRUE,FALSE,The Mandalorian and the Child,30.33544253
+Llama,BrickHeadz,249,30,10,100,4.9,FALSE,TRUE,FALSE,Calls,15.13732503
+Alex,BrickHeadz,249,30,10,86,5,FALSE,TRUE,FALSE,Alex,15.13732503
+Avión de Pasajeros,City,2999,0,7,913,4.7,FALSE,TRUE,FALSE,Passenger plane,182.3166175
+Casa Familiar y Coche Eléctrico,City,1499,20,6,462,4.8,FALSE,TRUE,FALSE,Family House and Electric Car,91.12791253
+Tren de Pasajeros de Alta Velocidad,City,4599,0,7,764,4.4,FALSE,TRUE,FALSE,High Speed ​​Passenger Train,279.5845695
+Hospital,City,3199,30,7,816,4.3,FALSE,TRUE,FALSE,Hospital,194.4751115
+Centro de Esquí y Escalada,City,2999,0,7,1045,5,FALSE,TRUE,FALSE,Ski and Climbing Center,182.3166175
+Heladería,City,999,0,6,296,4.9,FALSE,TRUE,FALSE,Ice cream shop,60.73167753
+Exploradores del Ártico: Camión y Laboratorio Móvil,City,1899,0,6,489,5,FALSE,TRUE,FALSE,Arctic Explorers: Truck and Mobile Laboratory,115.4449005
+Autocaravana de Vacaciones,City,469,0,5,190,4.8,FALSE,TRUE,FALSE,Vacation Motorhome,28.51166843
+Exploradores del Ártico: Barco,City,3999,0,7,815,4.9,FALSE,TRUE,FALSE,Arctic Explorers: Ship,243.1090875
+Desafío Acrobático: Rampa y Aro,City,749,30,5,144,4.9,FALSE,TRUE,FALSE,Acrobatic Challenge: Ramp and Hoop,45.53356003
+Centro Urbano,City,4999,0,8,2010,4.9,FALSE,TRUE,FALSE,Urban center,303.9015575
+Exploradores del Ártico: Motonieve,City,279,0,5,70,5,FALSE,TRUE,FALSE,Arctic Explorers: Snowmobile,16.96109913
+Barco de Exploración Submarina,City,999,0,5,182,4.9,FALSE,TRUE,FALSE,Underwater Exploration Ship,60.73167753
+Camiones de Obra y Grúa con Bola de Demolición,City,1499,0,4,235,4.9,FALSE,TRUE,FALSE,Construction Trucks and Crane with Wrecking Ball,91.12791253
+Estación de Tren,City,2599,0,7,907,4.5,FALSE,TRUE,FALSE,Train station,157.9996295
+Unidad Móvil de Control de Incendios,City,1599,0,7,502,4.9,FALSE,TRUE,FALSE,Mobile Fire Control Unit,97.20715953
+Coche de Policía,City,259,0,5,94,4.6,FALSE,TRUE,FALSE,Police car,15.74524973
+Avión Acrobático,City,259,30,5,59,5,FALSE,TRUE,FALSE,Aerobatic Plane,15.74524973
+Comisaría de Policía,City,1799,0,6,668,5,FALSE,TRUE,FALSE,Police station,109.3656535
+Grúa Móvil,City,1099,30,7,340,5,FALSE,TRUE,FALSE,Mobile Crane,66.81092453
+Edificio de Apartamentos,City,2399,0,6,688,4.8,FALSE,TRUE,FALSE,Apartment building,145.8411355
+Furgoneta Veterinaria de Rescate,City,259,30,4,58,4.4,FALSE,TRUE,FALSE,Veterinary Rescue Van,15.74524973
+Tren de Mercancías,City,4999,0,7,1153,4.8,FALSE,TRUE,FALSE,Goods train,303.9015575
+Excavadora de Obra,City,499,20,5,148,5,FALSE,TRUE,FALSE,Construction Excavator,30.33544253
+Vías,City,499,0,5,20,3.2,FALSE,TRUE,FALSE,Tracks,30.33544253
+Camión Hamburguesería,City,499,0,5,194,5,FALSE,TRUE,FALSE,Burger Truck,30.33544253
+Isla Prisión de la Policía,City,2599,0,7,980,,FALSE,TRUE,FALSE,Police Prison Island,157.9996295
+Róver de Control y Grúa de Carga,City,2199,0,7,758,,FALSE,TRUE,FALSE,Control Rover and Cargo Crane,133.6826415
+Coche de Carreras,City,259,30,4,46,5,FALSE,TRUE,FALSE,Race car,15.74524973
+Camión de Rescate 4x4 de Bomberos,City,259,30,5,97,5,FALSE,TRUE,FALSE,4x4 Fire Rescue Truck,15.74524973
+Nave Espacial Interestelar,City,499,0,6,240,5,FALSE,TRUE,FALSE,Interstellar Spaceship,30.33544253
+Base Espacial y Plataforma de Lanzamiento,City,3499,0,8,1422,,FALSE,TRUE,FALSE,Space Base and Launch Pad,212.7128525
+Parque de Bomberos con Camión de Bomberos,City,1999,0,6,843,4,FALSE,TRUE,FALSE,Fire Station with Fire Truck,121.5241475
+Estación Espacial Modular,City,2799,0,7,1097,,FALSE,TRUE,FALSE,Modular Space Station,170.1581235
+Centro de Lanzamiento Espacial,City,3999,30,7,1010,5,FALSE,TRUE,FALSE,Space Launch Center,243.1090875
+Barco Velero,City,499,0,5,102,,FALSE,TRUE,FALSE,Sailing boat,30.33544253
+Meca de Construcción Espacial,City,279,0,6,140,,FALSE,TRUE,FALSE,Space Construction Mecca,16.96109913
+Nave Espacial y Descubrimiento del Asteroide,City,499,0,4,126,,FALSE,TRUE,FALSE,Spacecraft and Asteroid Discovery,30.33544253
+Laboratorio de Criminología Móvil de la Policía,City,1399,0,7,674,,FALSE,TRUE,FALSE,Police Mobile Criminology Laboratory,85.04866553
+Avión de Rescate de Bomberos,City,1399,0,6,478,,FALSE,TRUE,FALSE,Fire Rescue Plane,85.04866553
+Karts y Pilotos de Carreras,City,259,0,5,99,,FALSE,TRUE,FALSE,Karts and Racing Drivers,15.74524973
+Moto de Policía y Coche a la Fuga,City,259,0,5,59,5,FALSE,TRUE,FALSE,Police Motorcycle and Getaway Car,15.74524973
+Helicóptero de Rescate para Emergencias,City,499,0,6,226,,FALSE,TRUE,FALSE,Emergency Rescue Helicopter,30.33544253
+Submarino de Exploración de las Profundidades,City,2799,0,7,842,4.9,FALSE,TRUE,FALSE,Deep Exploration Submarine,170.1581235
+Persecución Policial en el Banco,City,2599,30,7,915,4.7,FALSE,TRUE,FALSE,Police Chase at the Bank,157.9996295
+Apisonadora,City,259,0,5,78,5,FALSE,TRUE,FALSE,Roller,15.74524973
+Furgoneta-Pingüino de Granizadas,City,499,0,5,194,4.8,FALSE,TRUE,FALSE,Hailstorm Penguin Van,30.33544253
+Bases de Carretera,City,469,0,5,112,1.8,FALSE,TRUE,FALSE,Road Bases,28.51166843
+Monster Truck Azul,City,399,0,5,148,,FALSE,TRUE,FALSE,Blue Monster Truck,24.25619553
+Central de Vehículos de Emergencia,City,1799,20,6,706,4.9,FALSE,TRUE,FALSE,Emergency Vehicle Center,109.3656535
+Róver Explorador Espacial y Vida Extraterrestre,City,869,0,6,311,5,FALSE,TRUE,FALSE,Space Explorer Rover and Extraterrestrial Life,52.82865643
+Entrenamiento Móvil para Perros Policía,City,749,0,5,197,4.4,FALSE,TRUE,FALSE,Mobile Training for Police Dogs,45.53356003
+Base de Investigación Lunar,City,3399,30,7,786,4.7,FALSE,TRUE,FALSE,Lunar Research Base,206.6336055
+Moto Acrobática: Bañera,City,209,30,5,14,4.9,FALSE,TRUE,FALSE,Stunt Bike: Bathtub,12.70562623
+Coche de Carreras y Camión de Transporte,City,759,0,6,328,,FALSE,TRUE,FALSE,Racing Car and Transport Truck,46.14148473
+Deportivo de Carreras Verde,City,259,0,4,56,,FALSE,TRUE,FALSE,Green Racing Sports,15.74524973
+Coche de Policía y Potente Deportivo,City,499,0,6,213,,FALSE,TRUE,FALSE,Police Car and Powerful Sports Car,30.33544253
+Deportivo Eléctrico,City,259,0,5,95,4.8,FALSE,TRUE,FALSE,Electric Sports,15.74524973
+Moto Acrobática: Cibernauta,City,209,30,5,13,4,FALSE,TRUE,FALSE,Stunt Motorcycle: Cybernaut,12.70562623
+Transporte Equino,City,799,30,5,196,4.6,FALSE,TRUE,FALSE,Equine Transport,48.57318353
+Autolavado,City,829,0,6,243,4.8,FALSE,TRUE,FALSE,Carwash,50.39695763
+Camión de Reciclaje,City,749,0,5,261,4.9,FALSE,TRUE,FALSE,Recycling Truck,45.53356003
+Ambulancia de Emergencias y Chico con Snowboard,City,499,0,4,79,,FALSE,TRUE,FALSE,Emergency Ambulance and Boy with Snowboard,30.33544253
+Transporte del Helicóptero de Rescate,City,799,30,5,215,4.7,FALSE,TRUE,FALSE,Rescue Helicopter Transport,48.57318353
+Camión Hormigonera,City,529,30,4,85,5,FALSE,TRUE,FALSE,Concrete trucks,32.15921663
+Lancha de Policía y Guarida de los Ladrones,City,869,0,6,311,,FALSE,TRUE,FALSE,Police Boat and Thieves' Den,52.82865643
+Coches de Carreras Modificados,City,759,0,6,359,,FALSE,TRUE,FALSE,Modified Racing Cars,46.14148473
+Cambios de Agujas,City,349,0,5,8,5,FALSE,TRUE,FALSE,Needle Changes,21.21657203
+Helicóptero de Rescate de Bomberos,City,259,0,5,85,,FALSE,TRUE,FALSE,Fire Rescue Helicopter,15.74524973
+Granero y Animales de Granja,City,1899,30,4,230,3.4,FALSE,TRUE,FALSE,Barn and Farm Animals,115.4449005
+Central Móvil de Policía,City,1299,30,6,436,4.9,FALSE,TRUE,FALSE,Mobile Police Center,78.96941853
+Camión de Bomberos 4x4 con Barco de Rescate,City,869,0,5,301,,FALSE,TRUE,FALSE,4x4 Fire Truck with Rescue Boat,52.82865643
+Persecución Policial del Camión de los Helados,City,1099,30,5,317,4.7,FALSE,TRUE,FALSE,Police Chase of the Ice Cream Truck,66.81092453
+Moto Acrobática: Oso,City,209,30,5,10,5,FALSE,TRUE,FALSE,Stunt Bike: Bear,12.70562623
+Camión de Torneo de Videojuegos,City,999,0,7,344,2.5,FALSE,TRUE,FALSE,Video Game Tournament Truck,60.73167753
+Vehículo de Exploración Lunar,City,1099,30,6,275,5,FALSE,TRUE,FALSE,Lunar Exploration Vehicle,66.81092453
+Cuerpo de Bomberos,City,2599,30,7,766,4.8,FALSE,TRUE,FALSE,Fire brigade,157.9996295
+Estación Espacial Lunar,City,2099,30,6,500,4.8,FALSE,TRUE,FALSE,Lunar Space Station,127.6033945
+Moto de Rescate de Bomberos,City,259,0,4,57,,FALSE,TRUE,FALSE,Fire Rescue Motorcycle,15.74524973
+Parque de Bomberos y Camión de Bomberos,City,999,0,4,153,4.8,FALSE,TRUE,FALSE,Fire Station and Fire Truck,60.73167753
+Parque de Bomberos,City,1799,30,6,540,4.8,FALSE,TRUE,FALSE,Fire station,109.3656535
+Quad y Hábitat de la Nutria,City,259,30,5,90,4.7,FALSE,TRUE,FALSE,Quad and Otter Habitat,15.74524973
+Calendario de Adviento LEGO® City 2023,City,869,30,5,258,4.8,FALSE,TRUE,FALSE,LEGO® City Advent Calendar 2023,52.82865643
+Tractor Forestal,City,259,30,5,86,4.6,FALSE,TRUE,FALSE,Forest Tractor,15.74524973
+Misiones de Exploración Espacial de Marte,City,1099,30,6,298,4.3,FALSE,TRUE,FALSE,Mars Space Exploration Missions,66.81092453
+Moto Acrobática: Escorpión Temerario,City,209,30,5,15,4.5,FALSE,TRUE,FALSE,Stunt Motorcycle: Reckless Scorpion,12.70562623
+Lancha de Rescate de Bomberos,City,749,0,5,144,4.8,FALSE,TRUE,FALSE,Fire Rescue Boat,45.53356003
+Academia de Policía,City,2599,0,6,823,4.6,FALSE,TRUE,FALSE,Police Academy,157.9996295
+Todoterreno 4x4 Aventurero,City,749,0,6,252,4.6,FALSE,TRUE,FALSE,Off-Road 4x4 Adventurer,45.53356003
+Camión de los Helados,City,399,30,5,200,4.5,FALSE,TRUE,FALSE,Ice Cream Truck,24.25619553
+Persecución en la Comisaría de Policía,City,999,0,4,172,4.8,FALSE,TRUE,FALSE,Chase at the Police Station,60.73167753
+Tractor,City,469,0,5,148,4.8,FALSE,TRUE,FALSE,Tractor,28.51166843
+Misiones de Rescate de Animales Salvajes,City,1099,30,6,246,4.7,FALSE,TRUE,FALSE,Wild Animal Rescue Missions,66.81092453
+Taller Mecánico de Tuning,City,1499,0,6,507,4.5,FALSE,TRUE,FALSE,Mechanical Tuning Workshop,91.12791253
+Parque de Patinaje Urbano,City,1699,0,6,454,5,FALSE,TRUE,FALSE,Urban Skate Park,103.2864065
+Pack de Vehículos Deportivos,City,759,0,6,362,5,FALSE,TRUE,FALSE,Sports Vehicle Pack,46.14148473
+Rescate de Bomberos y Persecución Policial,City,1099,30,5,295,4.9,FALSE,TRUE,FALSE,Fire Rescue and Police Pursuit,66.81092453
+Montaña Rusa Espacial Móvil,City,1299,0,6,433,4.9,FALSE,TRUE,FALSE,Mobile Space Roller Coaster,78.96941853
+Desafío Acrobático: Ataque del Tiburón,City,999,30,5,122,4.5,FALSE,TRUE,FALSE,Acrobatic Challenge: Shark Attack,60.73167753
+Misiones de Investigación de la Policía Acuática,City,1099,30,6,278,4.3,FALSE,TRUE,FALSE,Water Police Investigation Missions,66.81092453
+Carrera de Camiones Monstruo,City,759,0,6,301,4.6,FALSE,TRUE,FALSE,Monster Truck Race,46.14148473
+Desafío Acrobático: Anillos Giratorios,City,999,30,6,117,4.8,FALSE,TRUE,FALSE,Acrobatic Challenge: Spinning Rings,60.73167753
+Desafío Acrobático: Derribo,City,999,30,5,117,5,FALSE,TRUE,FALSE,Acrobatic Challenge: Takedown,60.73167753
+Pista Acrobática con Doble Rizo,City,3999,30,7,598,2,FALSE,TRUE,FALSE,Acrobatic Track with Double Curl,243.1090875
+Rizo Acrobático: Chimpancé Devastador,City,1899,30,7,226,5,FALSE,TRUE,FALSE,Acrobatic Curl: Devastating Chimpanzee,115.4449005
+Desafío Acrobático: Camión y Anillos de Fuego,City,1499,30,6,479,4.9,FALSE,TRUE,FALSE,Acrobatic Challenge: Truck and Rings of Fire,91.12791253
+Desafío Acrobático: Rizo Extremo,City,2599,30,7,385,4.7,FALSE,TRUE,FALSE,Acrobatic Challenge: Extreme Curl,157.9996295
+Helicóptero de Bomberos,City,259,30,4,53,4.9,FALSE,TRUE,FALSE,Firefighter Helicopter,15.74524973
+Caja de Ladrillos Creativos Mediana LEGO®,Classic,849,0,4,484,4.7,FALSE,TRUE,FALSE,LEGO® Medium Creative Brick Box,51.61280703
+Diversión Creativa: Pastel,Classic,499,0,5,333,4.9,FALSE,TRUE,FALSE,Creative Fun: Cake,30.33544253
+Ladrillos Creativos Transparentes,Classic,749,0,4,500,3.7,FALSE,TRUE,FALSE,Transparent Creative Bricks,45.53356003
+Ladrillos a Montones,Classic,1499,0,5,1000,4.9,FALSE,TRUE,FALSE,Bricks in Piles,91.12791253
+Monstruos Creativos,Classic,259,0,4,140,5,FALSE,TRUE,FALSE,Creative Monsters,15.74524973
+Maletín creativo,Classic,499,0,4,213,4,FALSE,TRUE,FALSE,Creative briefcase,30.33544253
+Construye en Compañía,Classic,2599,30,5,1601,4.7,FALSE,TRUE,FALSE,Build in Company,157.9996295
+Base Verde,Classic,229,0,4,1,3.8,FALSE,TRUE,FALSE,Green Base,13.92147563
+Ladrillos y Funciones,Classic,799,30,5,500,4.9,FALSE,TRUE,FALSE,Bricks and Functions,48.57318353
+Caja de Ladrillos Creativos Vibrantes,Classic,1499,0,4,850,,FALSE,TRUE,FALSE,Vibrant Creative Bricks Box,91.12791253
+Creatividad a Todo Color,Classic,1599,0,5,1500,3,FALSE,TRUE,FALSE,Creativity in Full Color,97.20715953
+Base Blanca,Classic,229,0,4,1,5,FALSE,TRUE,FALSE,White Base,13.92147563
+Base Gris,Classic,399,0,4,1,4.3,FALSE,TRUE,FALSE,Gray Base,24.25619553
+Universo Creativo de Fantasía,Classic,2299,0,5,1800,4.9,FALSE,TRUE,FALSE,Creative Fantasy Universe,139.7618885
+Vehículos Creativos,Classic,1399,0,5,900,,FALSE,TRUE,FALSE,Creative Vehicles,85.04866553
+Base Azul,Classic,229,0,4,1,4,FALSE,TRUE,FALSE,Blue Base,13.92147563
+Misión Espacial,Classic,1899,30,5,1700,4,FALSE,TRUE,FALSE,Space mission,115.4449005
+90 Años de Juego,Classic,1299,30,5,1100,5,FALSE,TRUE,FALSE,90 Years of Play,78.96941853
+Caja Creativa: Fiesta,Classic,1299,0,5,900,4.9,FALSE,TRUE,FALSE,Creative Box: Party,78.96941853
+Planetas Espaciales Creativos,Classic,869,0,5,450,,FALSE,TRUE,FALSE,Creative Space Planets,52.82865643
+Ladrillos y Ruedas,Classic,999,30,4,653,4.5,FALSE,TRUE,FALSE,Bricks and Wheels,60.73167753
+Casas Creativas,Classic,1399,0,4,850,,FALSE,TRUE,FALSE,Creative Houses,85.04866553
+Mascotas Creativas,Classic,869,0,5,450,,FALSE,TRUE,FALSE,Creative Pets,52.82865643
+Diversión Creativa: Simios,Classic,259,30,5,135,4.9,FALSE,TRUE,FALSE,Creative Fun: Apes,15.74524973
+Diversión Oceánica Creativa,Classic,529,0,4,333,4.9,FALSE,TRUE,FALSE,Creative Ocean Fun,32.15921663
+Diversión Creativa: Neón,Classic,499,0,5,333,4.9,FALSE,TRUE,FALSE,Creative Fun: Neon,30.33544253
+Criaturas del Fondo Marino,Creator 3in1,349,0,7,230,5,FALSE,TRUE,FALSE,Seabed Creatures,21.21657203
+Cámara Retro,Creator 3in1,499,0,8,261,5,FALSE,TRUE,FALSE,Retro Camera,30.33544253
+Unicornio Mágico,Creator 3in1,259,0,7,145,4.9,FALSE,TRUE,FALSE,Magical Unicorn,15.74524973
+Grandes dinosaurios,Creator 3in1,349,0,7,174,4.7,FALSE,TRUE,FALSE,big dinosaurs,21.21657203
+Moto Clásica,Creator 3in1,349,0,8,128,4.8,FALSE,TRUE,FALSE,Classic Motorcycle,21.21657203
+Astronauta Espacial,Creator 3in1,1399,0,9,647,5,FALSE,TRUE,FALSE,Space Astronaut,85.04866553
+Lanzadera Espacial,Creator 3in1,259,0,6,144,4.9,FALSE,TRUE,FALSE,Space Shuttle,15.74524973
+Perros Adorables,Creator 3in1,749,0,7,475,4.9,FALSE,TRUE,FALSE,Adorable Dogs,45.53356003
+Pavo Real Exótico,Creator 3in1,499,0,7,355,5,FALSE,TRUE,FALSE,Exotic Peacock,30.33544253
+Loro Exótico,Creator 3in1,499,0,7,253,4.8,FALSE,TRUE,FALSE,Exotic Parrot,30.33544253
+Safari de Animales Salvajes,Creator 3in1,1599,0,9,780,,FALSE,TRUE,FALSE,Wild Animal Safari,97.20715953
+Conejo Blanco,Creator 3in1,499,0,8,258,4.6,FALSE,TRUE,FALSE,White Rabbit,30.33544253
+Camión Plataforma con Helicóptero,Creator 3in1,499,0,7,270,5,FALSE,TRUE,FALSE,Platform Truck with Helicopter,30.33544253
+Ukelele Tropical,Creator 3in1,759,0,8,387,5,FALSE,TRUE,FALSE,Tropical Ukulele,46.14148473
+Dragón Rojo,Creator 3in1,259,0,6,149,,FALSE,TRUE,FALSE,Red Dragon,15.74524973
+Criaturas Fantásticas del Bosque,Creator 3in1,399,0,7,175,4.9,FALSE,TRUE,FALSE,Fantastic Forest Creatures,24.25619553
+Flores en Regadera,Creator 3in1,759,0,8,420,,FALSE,TRUE,FALSE,Flowers in Watering Can,46.14148473
+Loro Rosa Exótico,Creator 3in1,499,0,7,253,4.9,FALSE,TRUE,FALSE,Exotic Pink Parrot,30.33544253
+Reactor Supersónico,Creator 3in1,529,0,7,215,5,FALSE,TRUE,FALSE,Supersonic Jet,32.15921663
+Montaña Rusa Espacial,Creator 3in1,2799,0,9,874,4.8,FALSE,TRUE,FALSE,Space Roller Coaster,170.1581235
+Barco Pirata,Creator 3in1,2999,0,9,1264,4.7,FALSE,TRUE,FALSE,Pirate Ship,182.3166175
+Patín Retro,Creator 3in1,759,0,8,342,,FALSE,TRUE,FALSE,Retro Skate,46.14148473
+Rueda de Hámster,Creator 3in1,759,0,8,416,,FALSE,TRUE,FALSE,Hamster wheel,46.14148473
+Pajarera,Creator 3in1,749,0,8,476,4.8,FALSE,TRUE,FALSE,Aviary,45.53356003
+Barco Vikingo y Serpiente Midgard,Creator 3in1,3199,30,9,1192,4.3,FALSE,TRUE,FALSE,Viking Ship and Midgard Serpent,194.4751115
+Tigre Majestuoso,Creator 3in1,1299,0,9,755,4.8,FALSE,TRUE,FALSE,Majestic Tiger,78.96941853
+Misión del Tesoro Hundido,Creator 3in1,999,0,8,522,4.3,FALSE,TRUE,FALSE,Sunken Treasure Mission,60.73167753
+Restaurante de Fideos del Centro,Creator 3in1,1199,30,8,569,4.6,FALSE,TRUE,FALSE,Downtown Noodle Restaurant,72.89017153
+Calle Principal,Creator 3in1,3699,30,9,1459,5,FALSE,TRUE,FALSE,Main Street,224.8713465
+Robot Invencible,Creator 3in1,259,0,6,159,4.9,FALSE,TRUE,FALSE,Invincible Robot,15.74524973
+Ciberdrón,Creator 3in1,249,30,6,113,5,FALSE,TRUE,FALSE,Cyberdrone,15.13732503
+Castillo Medieval,Creator 3in1,2599,0,9,1426,4.6,FALSE,TRUE,FALSE,Medieval castle,157.9996295
+Casa Confortable,Creator 3in1,1499,0,8,808,4.9,FALSE,TRUE,FALSE,Comfortable House,91.12791253
+Deportivo Callejero,Creator 3in1,529,30,7,258,5,FALSE,TRUE,FALSE,Street Sports,32.15921663
+Furgoneta Playera,Creator 3in1,1299,0,8,556,4.9,FALSE,TRUE,FALSE,Beach Van,78.96941853
+Delfín y Tortuga,Creator 3in1,259,30,6,137,4.6,FALSE,TRUE,FALSE,Dolphin and Turtle,15.74524973
+Casa Surfera en la Playa,Creator 3in1,1299,30,8,564,4.8,FALSE,TRUE,FALSE,Surf House on the Beach,78.96941853
+LEGO®: Titanic,Creator Expert,16499,0,18,9090,4.8,FALSE,TRUE,TRUE,LEGO®: Titanic,1003.014963
+Hotel Boutique,Creator Expert,5499,0,18,3066,4.5,FALSE,TRUE,TRUE,Boutique hotel,334.2977925
+Ramo de Flores,Creator Expert,1499,0,18,756,4.9,FALSE,TRUE,TRUE,Bouquet of flowers,91.12791253
+Máquina del Tiempo de Regreso al Futuro,Creator Expert,4999,0,18,1872,4.5,FALSE,TRUE,TRUE,Back to the Future Time Machine,303.9015575
+Librería,Creator Expert,4999,0,16,2504,4.5,FALSE,TRUE,TRUE,Bookshop,303.9015575
+Transbordador Espacial Discovery de la NASA,Creator Expert,4999,0,18,2354,4.8,FALSE,TRUE,TRUE,NASA Space Shuttle Discovery,303.9015575
+Orquídeas,Creator Expert,1299,0,18,608,4.8,FALSE,TRUE,TRUE,orchids,78.96941853
+Optimus Prime,Creator Expert,4299,0,18,1508,4.2,FALSE,TRUE,TRUE,Optimus Prime,261.3468285
+Porsche 911,Creator Expert,4099,0,18,1458,4.6,FALSE,TRUE,TRUE,porsche 911,249.1883345
+Suculentas,Creator Expert,1299,0,18,771,4.8,FALSE,TRUE,TRUE,Succulents,78.96941853
+Furgoneta Clásica,Creator Expert,3399,0,18,1677,4.1,FALSE,TRUE,TRUE,Classic Van,206.6336055
+Vespa,Creator Expert,249,0,9,118,4.9,FALSE,TRUE,FALSE,Vespa,15.13732503
+Gran plaza,Creator Expert,7299,0,16,4002,4.8,FALSE,TRUE,TRUE,Large square,443.7242385
+ECTO-1 de los Cazafantasmas,Creator Expert,5799,0,18,2352,4.6,FALSE,TRUE,TRUE,Ghostbusters ECTO-1,352.5355335
+NASA Apollo 11 Lunar Lander,Creator Expert,2599,0,16,1087,5,FALSE,TRUE,TRUE,NASA Apollo 11 Lunar Lander,157.9996295
+Casa Encantada de la Feria,Creator Expert,7299,0,18,3231,4.5,FALSE,TRUE,TRUE,Haunted Fair House,443.7242385
+Coliseo,Creator Expert,12999,30,18,9036,4.3,FALSE,TRUE,TRUE,Coliseum,790.2413175
+Ford Mustang,Creator Expert,4099,0,16,1471,4.7,FALSE,TRUE,TRUE,Ford Mustang,249.1883345
+Estadio del Real Madrid – Santiago Bernabéu,Creator Expert,9499,30,18,5876,4.8,FALSE,TRUE,TRUE,Real Madrid Stadium – Santiago Bernabéu,577.4676725
+Ave del Paraíso,Creator Expert,2599,0,18,1173,4.6,FALSE,TRUE,TRUE,Bird from paradise,157.9996295
+Tren de Alta Velocidad,Creator Expert,449,0,7,284,4.1,FALSE,TRUE,FALSE,High-speed train,27.29581903
+Apartamentos de Friends,Creator Expert,4299,0,18,2048,4.6,FALSE,TRUE,TRUE,Friends Apartments,261.3468285
+Comisaría de Policía,Creator Expert,4999,30,18,2923,4.5,FALSE,TRUE,TRUE,Police station,303.9015575
+Visita de Papá Noel,Creator Expert,2599,20,18,1445,4.8,FALSE,TRUE,TRUE,Visit from Santa Claus,157.9996295
+Batcueva: Caja Sombría,DC,9699,0,18,3981,4.4,FALSE,FALSE,TRUE,Batcave: Shadow Box,589.6261665
+LEGO® DC Batman™: Batmóvil Blindado,DC,6499,0,18,2049,4,FALSE,FALSE,TRUE,LEGO® DC Batman™: Armored Batmobile,395.0902625
+Batmóvil: Caza de The Penguin™,DC,799,0,8,392,5,FALSE,FALSE,FALSE,Batmobile: Hunt from The Penguin™,48.57318353
+THE BATMAN: BATMOTO,DC,1299,0,9,641,4.8,FALSE,FALSE,FALSE,THE BATMAN: BATMOTO,78.96941853
+Llavero de Superman™,DC,149,0,6,1,5,TRUE,FALSE,FALSE,Superman™ Keychain,9.05807803
+THE BATMAN: BATMÓVIL,DC,2599,30,10,1360,4.7,FALSE,FALSE,FALSE,THE BATMAN: BATMOBILE,157.9996295
+Jim Lee: Colección de Batman™,DC,3199,30,18,4167,4.8,FALSE,FALSE,TRUE,Jim Lee: Batman™ Collection,194.4751115
+Castillo Disney,Disney™,9699,0,18,4837,5,FALSE,FALSE,TRUE,Disney Castle,589.6261665
+Casa de “Up”,Disney™,1499,0,9,598,4.5,FALSE,FALSE,FALSE,House of “Up”,91.12791253
+Mini Castillo Disney,Disney™,999,0,12,567,4.9,FALSE,FALSE,FALSE,Mini Disney Castle,60.73167753
+EVA y WALL•E,Disney™,359,0,10,155,5,FALSE,FALSE,FALSE,EVE and WALL•E,21.82449673
+Cámara en Homenaje a Walt Disney,Disney™,2599,0,18,811,5,FALSE,FALSE,TRUE,Camera in Tribute to Walt Disney,157.9996295
+100 Años de Iconos de la Animación Disney,Disney™,1499,0,6,1022,4.5,FALSE,FALSE,FALSE,100 Years of Disney Animation Icons,91.12791253
+Mini Palacio de Agrabah Disney,Disney™,999,20,12,506,3.8,FALSE,FALSE,FALSE,Agrabah Disney Mini Palace,60.73167753
+Diversión en el Autolavado con Rayo McQueen y Mate,Disney™,749,0,2,29,4.9,FALSE,FALSE,FALSE,Fun at the Car Wash with Lightning McQueen and Mate,45.53356003
+Rapunzel Bailarina,Disney™,259,0,5,89,4.6,FALSE,FALSE,FALSE,Rapunzel Dancer,15.74524973
+Casa Madrigal,Disney™,1299,0,6,587,3.9,FALSE,FALSE,FALSE,Madrigal House,78.96941853
+100 Aniversario de Disney,Disney™,999,40,10,501,4.7,FALSE,FALSE,FALSE,Disney's 100th Anniversary,60.73167753
+Vaiana y Mérida,Disney™,499,0,10,410,5,FALSE,FALSE,FALSE,Moana and Merida,30.33544253
+Mini Mansión Encantada Disney,Disney™,999,40,12,680,4.5,FALSE,FALSE,FALSE,Mini Disney Haunted Mansion,60.73167753
+Iconos de Villanos,Disney™,3399,0,18,1540,4.9,FALSE,FALSE,TRUE,Villains Icons,206.6336055
+Frozen: Paraíso Invernal de Anna y Elsa,Disney™,1099,30,4,154,4.9,FALSE,FALSE,FALSE,Frozen: Anna and Elsa's Winter Paradise,66.81092453
+Concha Real de la Sirenita,Disney™,3999,20,18,1808,5,FALSE,FALSE,TRUE,Royal Shell of the Little Mermaid,243.1090875
+Mini Castillo de Disney Ariel,Disney™,999,0,12,557,,FALSE,FALSE,FALSE,Disney Ariel Mini Castle,60.73167753
+Patio del Castillo de Anna,Disney™,259,30,5,74,5,FALSE,FALSE,FALSE,Anna Castle Courtyard,15.74524973
+Llavero de Mickey,Disney™,149,0,6,1,4.4,TRUE,FALSE,FALSE,Mickey keychain,9.05807803
+Llavero de Minnie,Disney™,149,0,6,1,5,TRUE,FALSE,FALSE,Minnie keychain,9.05807803
+Torre de Rapunzel y El Patito Frito,Disney™,2199,0,6,623,,FALSE,FALSE,FALSE,Rapunzel and Fried Duckling Tower,133.6826415
+Gran Castillo de Aventuras,Disney™,2599,0,6,698,4.9,FALSE,FALSE,FALSE,Great Adventure Castle,157.9996295
+Dúos Disney,Disney™,1149,0,6,553,5,FALSE,FALSE,FALSE,Disney Duos,69.85054803
+Asha en la Ciudad de Rosas,Disney™,499,0,6,154,4.8,FALSE,FALSE,FALSE,Asha in the City of Roses,30.33544253
+Mickey Mouse Fiesta de la Primavera,Disney™,249,0,10,120,,FALSE,FALSE,FALSE,Mickey Mouse Spring Festival,15.13732503
+Cruella y Maléfica,Disney™,499,0,10,320,4,FALSE,FALSE,FALSE,Cruella and Maleficent,30.33544253
+Aventura en el Mercado de las Princesas Disney,Disney™,2599,0,6,817,,FALSE,FALSE,FALSE,Adventure at the Disney Princess Market,157.9996295
+Castillo de Bella y Bestia,Disney™,2299,30,6,505,4.9,FALSE,FALSE,FALSE,Beauty and the Beast Castle,139.7618885
+Torre de Rapunzel,Disney™,1599,30,6,369,4.7,FALSE,FALSE,FALSE,Rapunzel Tower,97.20715953
+Batalla contra Zurg,Disney™,799,30,7,261,4.7,FALSE,FALSE,FALSE,Battle against Zurg,48.57318353
+Vuelo sobre Londres de Peter Pan y Wendy,Disney™,1499,0,10,466,4.7,FALSE,FALSE,FALSE,Peter Pan and Wendy's Flight Over London,91.12791253
+"Gilito McPato, Juanito, Jaimito y Jorgito",Disney™,619,30,10,340,4.9,FALSE,FALSE,FALSE,"Gilito McPato, Juanito, Jaimito and Jorgito",37.63053893
+Castillo de Hielo,Disney™,5499,0,14,1709,4.4,FALSE,FALSE,TRUE,Ice Castle,334.2977925
+Casa del Árbol Encantada,Disney™,3999,0,7,1016,4.8,FALSE,FALSE,FALSE,Enchanted Tree House,243.1090875
+Barco Aventurero de Vaiana,Disney™,849,0,6,321,4.9,FALSE,FALSE,FALSE,Moana's Adventure Ship,51.61280703
+Castillo Mágico 3en1,Disney™,2599,0,3,160,4.6,FALSE,FALSE,FALSE,Magic Castle 3in1,157.9996295
+Cofre de Tesoros de Ariel,Disney™,1149,0,6,370,4.2,FALSE,FALSE,FALSE,Ariel's Treasure Chest,69.85054803
+Mack en las Carreras,Disney™,499,0,2,14,,FALSE,FALSE,FALSE,Mack at the Races,30.33544253
+Patio del Castillo de Elsa,Disney™,259,30,5,53,5,FALSE,FALSE,FALSE,Elsa's Castle Courtyard,15.74524973
+Calesa de Cuentos de Bella,Disney™,399,0,5,62,,FALSE,FALSE,FALSE,Belle's Story Carriage,24.25619553
+"Creaciones Encantadas de Aurora, Mérida y Tiana",Disney™,1799,30,6,558,3.6,FALSE,FALSE,FALSE,"Enchanted Creations of Aurora, Merida and Tiana",109.3656535
+Elsa y Bruni en el Bosque Encantado,Disney™,759,0,2,31,,FALSE,FALSE,FALSE,Elsa and Bruni in the Enchanted Forest,46.14148473
+Tren Homenaje a Disney,Disney™,999,0,4,200,5,FALSE,FALSE,FALSE,Disney Homage Train,60.73167753
+Aventura de Jasmine y Mulán,Disney™,1099,30,5,176,4.4,FALSE,FALSE,FALSE,Jasmine and Mulan's Adventure,66.81092453
+Delicias Heladas de Elsa,Disney™,399,0,5,82,,FALSE,FALSE,FALSE,Elsa's Frozen Delights,24.25619553
+Palacio Submarino de Ariel,Disney™,2599,30,6,498,4.8,FALSE,FALSE,FALSE,Ariel's Underwater Palace,157.9996295
+Castillo Helado de Elsa,Disney™,1149,0,4,163,,FALSE,FALSE,FALSE,Elsa's Frozen Castle,69.85054803
+Castillo de Aurora,Disney™,1099,0,4,187,4.9,FALSE,FALSE,FALSE,Aurora Castle,66.81092453
+Woody y Bo Peep,Disney™,499,30,10,296,4.9,FALSE,FALSE,FALSE,Woody and Bo Peep,30.33544253
+LEGO® Minifigures: Edición Disney 100,Disney™,129,30,5,8,3.4,FALSE,FALSE,FALSE,LEGO® Minifigures: Disney 100 Edition,7.84222863
+Tiovivo Mágico de Anna y Elsa,Disney™,499,0,6,175,4.9,FALSE,FALSE,FALSE,Anna and Elsa's Magic Merry-Go-Round,30.33544253
+Libro de Cuento: La Sirenita,Disney™,529,0,5,134,4.7,FALSE,FALSE,FALSE,Story Book: The Little Mermaid,32.15921663
+Llavero del Pato Donald,Disney™,149,0,6,1,5,TRUE,FALSE,FALSE,Donald Duck Keychain,9.05807803
+Joyero Creativo de Elsa,Disney™,999,30,6,300,4.8,FALSE,FALSE,FALSE,Elsa's Creative Jewelry Box,60.73167753
+Castillo de Cenicienta y el Príncipe,Disney™,2299,0,5,365,4.9,FALSE,FALSE,FALSE,Cinderella Castle and the Prince,139.7618885
+Salón de Baile de Bella,Disney™,529,30,2,23,4.7,FALSE,FALSE,FALSE,Belle's Ballroom,32.15921663
+Mickey y sus Amigos: Megapack de Pulseras,Disney™,799,30,6,349,5,FALSE,FALSE,FALSE,Mickey and Friends: Megapack of Bracelets,48.57318353
+Cuentos e Historias: Elsa y el Nokk,Disney™,469,30,5,125,4.8,FALSE,FALSE,FALSE,Tales and Stories: Elsa and the Nokk,28.51166843
+Pato Donald,Disney™,249,30,10,90,4.8,FALSE,FALSE,FALSE,Donald Duck,15.13732503
+Tren de Cumpleaños de Mickey y Minnie,Disney™,749,0,2,22,4.9,FALSE,FALSE,FALSE,Mickey and Minnie's Birthday Train,45.53356003
+Viaje Encantado de las Princesas,Disney™,1599,0,6,320,4.7,FALSE,FALSE,FALSE,Enchanted Journey of the Princesses,97.20715953
+Nave Espacial XL-15,Disney™,1299,30,8,497,4.9,FALSE,FALSE,FALSE,XL-15 Spaceship,78.96941853
+Disney Princess: Castillos Creativos,Disney™,849,0,6,140,5,FALSE,FALSE,FALSE,Disney Princess: Creative Castles,51.61280703
+Stitch,Disney™,1599,0,9,730,,FALSE,FALSE,FALSE,Stitch,97.20715953
+Excursión de Campo de Mickey Mouse y Minnie Mouse,Disney™,649,0,4,103,4.8,FALSE,FALSE,FALSE,Mickey Mouse and Minnie Mouse Field Trip,39.45431303
+Llavero de Elsa LEGO® l Disney Frozen 2,Disney™,149,0,6,1,,TRUE,FALSE,FALSE,Elsa keychain LEGO® l Disney Frozen 2,9.05807803
+Elsa y el Establo de Hielo del Nokk,Disney™,399,30,4,53,4.8,FALSE,FALSE,FALSE,Elsa and the Nokk Ice Stable,24.25619553
+Llavero de Olaf LEGO® l Disney Frozen 2,Disney™,149,0,6,1,,TRUE,FALSE,FALSE,Olaf keychain LEGO® l Disney Frozen 2,9.05807803
+Mickey Mouse y Minnie Mouse: Parche para Coser,Disney™,129,30,8,95,4,FALSE,FALSE,FALSE,Mickey Mouse and Minnie Mouse: Sew-on Patch,7.84222863
+Duelo contra Zyclops,Disney™,529,30,4,87,4.8,FALSE,FALSE,FALSE,Duel against Zyclops,32.15921663
+Cuentos e Historias: Peter Pan y Wendy,Disney™,529,0,5,111,3,FALSE,FALSE,FALSE,Tales and Stories: Peter Pan and Wendy,32.15921663
+Winnie the Pooh,Disney™,2599,0,18,1265,4.7,FALSE,FALSE,TRUE,Winnie the Pooh,157.9996295
+Misión Planetaria de Buzz Lightyear,Disney™,799,30,2,37,4.8,FALSE,FALSE,FALSE,Buzz Lightyear's Planetary Mission,48.57318353
+Maceta de Isabela,Disney™,999,0,9,641,,FALSE,FALSE,FALSE,Isabela flowerpot,60.73167753
+Aventura Campestre,Disney™,1299,0,2,37,5,FALSE,FALSE,FALSE,Country Adventure,78.96941853
+Castillo del Rey Magnifico,Disney™,2599,0,7,613,4.9,FALSE,FALSE,FALSE,Castle of the Magnificent King,157.9996295
+Llavero de Anna LEGO® l Disney Frozen 2,Disney™,149,20,6,1,,TRUE,FALSE,FALSE,LEGO® l Disney Frozen 2 Anna Keychain,9.05807803
+Chip y Chop,Disney™,499,30,10,226,5,FALSE,FALSE,FALSE,Chip and Chop,30.33544253
+Pata Daisy,Disney™,249,30,10,110,4.8,FALSE,FALSE,FALSE,Daisy Duck,15.13732503
+Stitch,Disney™,249,0,10,152,,FALSE,FALSE,FALSE,Stitch,15.13732503
+Llavero de la Pata Daisy,Disney™,149,0,6,1,,TRUE,FALSE,FALSE,Daisy Duck Keychain,9.05807803
+Cabaña de Asha,Disney™,1299,0,7,509,1,FALSE,FALSE,FALSE,Asha's Cabin,78.96941853
+Mickey Mouse y Minnie Mouse: Caja de Proyectos de Vuelta al Cole,Disney™,1099,30,6,669,5,FALSE,FALSE,FALSE,Mickey Mouse and Minnie Mouse: Back to School Project Box,66.81092453
+Marco de Fotos y Joyero de Mirabel,Disney™,759,0,6,334,,FALSE,FALSE,FALSE,Mirabel Photo Frame and Jewelry Box,46.14148473
+Frozen: Castillo de Hielo,Disney™,1299,30,2,59,4.3,FALSE,FALSE,FALSE,Frozen: Ice Castle,78.96941853
+Goofy y Pluto,Disney™,349,30,10,214,4.7,FALSE,FALSE,FALSE,Goofy and Pluto,21.21657203
+Mickey y sus Amigos: Defensores del Castillo,Disney™,1399,30,4,215,5,FALSE,FALSE,FALSE,Mickey and Friends: Castle Defenders,85.04866553
+Mickey y sus Amigos: Megapack de Pulseras,DOTS,799,30,6,349,5,FALSE,TRUE,FALSE,Mickey and Friends: Megapack of Bracelets,48.57318353
+Megapack de Diseño de Pulseras,DOTS,749,30,6,388,4.8,FALSE,TRUE,FALSE,Bracelet Design Megapack,45.53356003
+Pack de Accesorios: Hogwarts™,DOTS,349,30,8,234,2.7,FALSE,TRUE,FALSE,Accessory Pack: Hogwarts™,21.21657203
+Kit de Herramientas de Diseño: Patrones,DOTS,1599,30,8,1096,4.9,FALSE,TRUE,FALSE,Design Toolkit: Patterns,97.20715953
+Bandeja Osito Panda,DOTS,529,30,6,517,5,FALSE,TRUE,FALSE,Panda Bear Tray,32.15921663
+Cajón Animales Creativos,DOTS,599,30,6,643,4.7,FALSE,TRUE,FALSE,Creative Animals Drawer,36.41468953
+DOTS a Montones: Letras,DOTS,529,30,6,722,4.7,FALSE,TRUE,FALSE,DOTS a Lot: Lyrics,32.15921663
+Megapack de Parches Adhesivos,DOTS,799,30,6,486,4.8,FALSE,TRUE,FALSE,Megapack of Adhesive Patches,48.57318353
+Kit de Escritorio: Hogwarts™,DOTS,1099,30,8,856,3.7,FALSE,TRUE,FALSE,Desk Kit: Hogwarts™,66.81092453
+Mickey Mouse y Minnie Mouse: Parche para Coser,DOTS,129,30,8,95,4,FALSE,TRUE,FALSE,Mickey Mouse and Minnie Mouse: Sew-on Patch,7.84222863
+Kit de Fiesta Definitivo,DOTS,1299,30,6,1154,4.5,FALSE,TRUE,FALSE,Ultimate Party Kit,78.96941853
+Portalápices Plátano Adorable,DOTS,529,30,6,438,4.9,FALSE,TRUE,FALSE,Adorable Banana Pencil Holder,32.15921663
+Mickey Mouse y Minnie Mouse: Caja de Proyectos de Vuelta al Cole,DOTS,1099,30,6,669,5,FALSE,TRUE,FALSE,Mickey Mouse and Minnie Mouse: Back to School Project Box,66.81092453
+Pulsera Mis Mascotas,DOTS,129,30,6,37,4,FALSE,TRUE,FALSE,My Pets Bracelet,7.84222863
+Pulsera Unicornios Eternos,DOTS,129,30,8,37,,FALSE,TRUE,FALSE,Eternal Unicorns Bracelet,7.84222863
+Caja Grande,DOTS,799,30,7,479,4,FALSE,TRUE,FALSE,Big box,48.57318353
+Rótulo,DOTS,529,30,6,531,4.9,FALSE,TRUE,FALSE,Label,32.15921663
+DOTS Extra: Edición 8 (Brillos y Destellos),DOTS,99,30,6,115,4.9,FALSE,TRUE,FALSE,DOTS Extra: Edition 8 (Shimmers and Sparkles),6.01845453
+Portalápices Hedwig™,DOTS,529,30,6,518,5,FALSE,TRUE,FALSE,Hedwig™ Pencil Holder,32.15921663
+Caja del Corazón,DUPLO®,469,0,2,80,5,FALSE,TRUE,FALSE,Heart Box,28.51166843
+Caja de Ladrillos Deluxe,DUPLO®,1299,0,2,85,4.1,FALSE,TRUE,FALSE,Deluxe Brick Box,78.96941853
+Caja de Ladrillos,DUPLO®,749,0,2,65,4.7,FALSE,TRUE,FALSE,Brick Box,45.53356003
+Parque de Atracciones,DUPLO®,2799,30,2,95,4.9,FALSE,TRUE,FALSE,Theme park,170.1581235
+Camión y Excavadora con Orugas,DUPLO®,469,0,2,20,4.6,FALSE,TRUE,FALSE,Truck and Excavator with Tracks,28.51166843
+Buldócer,DUPLO®,209,30,2,10,5,FALSE,TRUE,FALSE,Bulldozer,12.70562623
+Tren de los Números: Aprende a Contar,DUPLO®,499,0,2,23,5,FALSE,TRUE,FALSE,Number Train: Learn to Count,30.33544253
+Momentos de Construcción Creativa,DUPLO®,1099,30,2,120,5,FALSE,TRUE,FALSE,Moments of Creative Construction,66.81092453
+Tren de vapor,DUPLO®,1599,0,2,59,3.3,FALSE,TRUE,FALSE,Steam train,97.20715953
+Tren de Cumpleaños de Mickey y Minnie,DUPLO®,749,0,2,22,4.9,FALSE,TRUE,FALSE,Mickey and Minnie's Birthday Train,45.53356003
+Frozen: Castillo de Hielo,DUPLO®,1299,30,2,59,4.3,FALSE,TRUE,FALSE,Frozen: Ice Castle,78.96941853
+Casa Familiar 3en1,DUPLO®,3399,30,3,218,4.9,FALSE,TRUE,FALSE,3in1 Family House,206.6336055
+Castillo Mágico 3en1,DUPLO®,2599,0,3,160,4.6,FALSE,TRUE,FALSE,Magic Castle 3in1,157.9996295
+Tren de mercancías,DUPLO®,3399,0,2,105,4.7,FALSE,TRUE,FALSE,Goods train,206.6336055
+Tren de los Animales,DUPLO®,499,0,2,19,,FALSE,TRUE,FALSE,Animal Train,30.33544253
+Diversión en el Autolavado con Rayo McQueen y Mate,DUPLO®,749,0,2,29,4.9,FALSE,TRUE,FALSE,Fun at the Car Wash with Lightning McQueen and Mate,45.53356003
+Cuidado de Animales en la Granja,DUPLO®,1299,0,2,74,,FALSE,TRUE,FALSE,Farm Animal Care,78.96941853
+Rutinas Diarias: Hora del Baño,DUPLO®,259,0,2,15,,FALSE,TRUE,FALSE,Daily Routines: Bath Time,15.74524973
+Tren de los Animales,DUPLO®,469,30,2,15,5,FALSE,TRUE,FALSE,Animal Train,28.51166843
+Casa de Pan de Jengibre de Papá Noel,DUPLO®,999,0,2,50,5,FALSE,TRUE,FALSE,Santa's Gingerbread House,60.73167753
+Aventura en Lanzadera Espacial 3en1,DUPLO®,1499,0,3,58,,FALSE,TRUE,FALSE,3in1 Space Shuttle Adventure,91.12791253
+Puente y vías ferroviarias,DUPLO®,599,0,2,26,3.5,FALSE,TRUE,FALSE,Bridge and railway tracks,36.41468953
+Spider-Man y sus Amigos: Aventura en la Feria,DUPLO®,1599,30,2,41,5,FALSE,TRUE,FALSE,Spider-Man and Friends: Adventure at the Fair,97.20715953
+Mack en las Carreras,DUPLO®,499,0,2,14,,FALSE,TRUE,FALSE,Mack at the Races,30.33544253
+Visita al Centro Veterinario,DUPLO®,499,0,2,28,,FALSE,TRUE,FALSE,Visit to the Veterinary Center,30.33544253
+Camión del Alfabeto,DUPLO®,999,0,2,36,,FALSE,TRUE,FALSE,Alphabet Truck,60.73167753
+Gente Construible con Grandes Emociones,DUPLO®,1299,0,3,71,,FALSE,TRUE,FALSE,Buildable People with Great Emotions,78.96941853
+Rutinas Diarias: Comer y Dormir,DUPLO®,759,0,2,28,,FALSE,TRUE,FALSE,Daily Routines: Eat and Sleep,46.14148473
+Cuidado de Abejas y Colmenas,DUPLO®,499,0,2,22,,FALSE,TRUE,FALSE,Bee and Hive Care,30.33544253
+Grandes Sentimientos y Emociones,DUPLO®,759,0,2,23,,FALSE,TRUE,FALSE,Great Feelings and Emotions,46.14148473
+Elsa y Bruni en el Bosque Encantado,DUPLO®,759,0,2,31,,FALSE,TRUE,FALSE,Elsa and Bruni in the Enchanted Forest,46.14148473
+Guardería de Dinosaurios,DUPLO®,529,30,2,27,4.9,FALSE,TRUE,FALSE,Dinosaur Nursery,32.15921663
+Aparcamiento y Autolavado,DUPLO®,2599,30,2,112,4.8,FALSE,TRUE,FALSE,Parking and Car Wash,157.9996295
+Casa de Spider-Man,DUPLO®,529,0,2,25,4.9,FALSE,TRUE,FALSE,Spider-Man House,32.15921663
+Casa del Árbol 3en1,DUPLO®,2299,0,3,126,4.8,FALSE,TRUE,FALSE,Tree House 3in1,139.7618885
+Fauna Salvaje de Sudamérica,DUPLO®,1399,30,2,71,4.8,FALSE,TRUE,FALSE,Wildlife of South America,85.04866553
+Misión Planetaria de Buzz Lightyear,DUPLO®,799,30,2,37,4.8,FALSE,TRUE,FALSE,Buzz Lightyear's Planetary Mission,48.57318353
+Ciudad Alfabeto,DUPLO®,1299,0,2,87,4.9,FALSE,TRUE,FALSE,Alphabet City,78.96941853
+Granja y Animales,DUPLO®,249,30,2,11,4.3,FALSE,TRUE,FALSE,Farm and Animals,15.13732503
+Obra,DUPLO®,1599,0,2,61,4.8,FALSE,TRUE,FALSE,Construction site,97.20715953
+Salón de Baile de Bella,DUPLO®,529,30,2,23,4.7,FALSE,TRUE,FALSE,Belle's Ballroom,32.15921663
+Base de Construcción Verde LEGO® DUPLO®,DUPLO®,399,0,2,1,5,FALSE,TRUE,FALSE,LEGO® DUPLO® Green Building Base,24.25619553
+Camión de Reciclaje,DUPLO®,499,0,2,15,4.9,FALSE,TRUE,FALSE,Recycling Truck,30.33544253
+Huerto Orgánico,DUPLO®,1099,0,2,43,4.6,FALSE,TRUE,FALSE,Organic garden,66.81092453
+Mis Primeros Cachorrito y Gatito con Sonidos,DUPLO®,1099,30,2,22,4.9,FALSE,TRUE,FALSE,My First Puppy and Kitten with Sounds,66.81092453
+Gran Parque de Juegos,DUPLO®,1299,0,2,75,4.7,FALSE,TRUE,FALSE,Great Play Park,78.96941853
+Mercado Orgánico,DUPLO®,749,0,2,40,4.9,FALSE,TRUE,FALSE,Organic Market,45.53356003
+Paseo en Autobús,DUPLO®,499,0,2,16,5,FALSE,TRUE,FALSE,Bus Ride,30.33544253
+Camión de Bomberos,DUPLO®,799,0,2,21,4.9,FALSE,TRUE,FALSE,Fire truck,48.57318353
+Fauna Salvaje del Mundo,DUPLO®,3499,0,2,142,4.9,FALSE,TRUE,FALSE,Wildlife of the World,212.7128525
+Aerogenerador y Coche Eléctrico,DUPLO®,259,0,2,16,4.4,FALSE,TRUE,FALSE,Wind Turbine and Electric Car,15.74524973
+Diversión en el Baño: Panda Rojo Flotante,DUPLO®,259,30,2,5,4.8,FALSE,TRUE,FALSE,Bath Fun: Floating Red Panda,15.74524973
+Tractor de Frutas y Verduras,DUPLO®,529,0,2,19,5,FALSE,TRUE,FALSE,Fruit and Vegetable Tractor,32.15921663
+Diversión en el Baño: Tren de los Animales Flotante,DUPLO®,529,0,2,14,4.5,FALSE,TRUE,FALSE,Bath Fun: Floating Animal Train,32.15921663
+Vías ferroviarias,DUPLO®,499,0,2,23,5,FALSE,TRUE,FALSE,railway tracks,30.33544253
+Aventura Campestre,DUPLO®,1299,0,2,37,5,FALSE,TRUE,FALSE,Country Adventure,78.96941853
+Diversión en el Baño: Isla de los Animales Flotante,DUPLO®,1099,30,2,20,4.7,FALSE,TRUE,FALSE,Bath Fun: Floating Animal Island,66.81092453
+Aprende sobre la Cultura China,DUPLO®,1799,30,2,124,4.9,FALSE,TRUE,FALSE,Learn about Chinese Culture,109.3656535
+Parque de Bomberos y Helicóptero,DUPLO®,2399,0,2,117,4.8,FALSE,TRUE,FALSE,Fire Station and Helicopter,145.8411355
+Parque Acuático,DUPLO®,999,0,2,19,4.8,FALSE,TRUE,FALSE,Water park,60.73167753
+Fauna Salvaje de Asia,DUPLO®,2599,30,2,116,4.9,FALSE,TRUE,FALSE,Asian Wildlife,157.9996295
+Vida en la Guardería,DUPLO®,1149,30,2,67,4.8,FALSE,TRUE,FALSE,Daycare Life,69.85054803
+Casa Familiar con Ruedas,DUPLO®,529,0,2,31,4.7,FALSE,TRUE,FALSE,Family House with Wheels,32.15921663
+Planta de Zanahoria,DUPLO®,259,0,2,11,4.2,FALSE,TRUE,FALSE,Carrot Plant,15.74524973
+Comisaría de Policía y Helicóptero,DUPLO®,1299,0,2,40,5,FALSE,TRUE,FALSE,Police Station and Helicopter,78.96941853
+Fauna Salvaje del Océano,DUPLO®,529,0,2,32,4.9,FALSE,TRUE,FALSE,Ocean Wildlife,32.15921663
+Fauna Salvaje de África,DUPLO®,259,0,2,10,3,FALSE,TRUE,FALSE,African Wildlife,15.74524973
+Visita Médica,DUPLO®,529,30,2,34,4.9,FALSE,TRUE,FALSE,Medical visit,32.15921663
+Fauna Salvaje de Europa,DUPLO®,1899,0,2,85,5,FALSE,TRUE,FALSE,Wildlife of Europe,115.4449005
+Moto de Policía,DUPLO®,259,0,2,5,5,FALSE,TRUE,FALSE,Police Motorcycle,15.74524973
+Misión de la Lanzadera Espacial,DUPLO®,469,0,2,23,5,FALSE,TRUE,FALSE,Space Shuttle Mission,28.51166843
+Jardín Botánico,Friends,1999,0,12,1072,5,FALSE,TRUE,FALSE,Botanical Garden,121.5241475
+Mansión Moderna de Andrea,Friends,4999,0,14,2275,,FALSE,TRUE,FALSE,Andrea's Modern Mansion,303.9015575
+Floristería y Tienda de Diseño del Centro,Friends,3999,20,12,2010,4.8,FALSE,TRUE,FALSE,Downtown Florist and Design Store,243.1090875
+Casas Familiares de Olly y Paisley,Friends,2599,0,7,1126,,FALSE,TRUE,FALSE,Olly and Paisley Family Homes,157.9996295
+Escuela de Arte de Emma,Friends,1899,30,8,844,4.9,FALSE,TRUE,FALSE,Emma's Art School,115.4449005
+Edificio de la Calle Principal,Friends,3999,30,8,1682,5,FALSE,TRUE,FALSE,Main Street Building,243.1090875
+Casita con Ruedas,Friends,1599,0,7,785,4.9,FALSE,TRUE,FALSE,House with Wheels,97.20715953
+Centro Comercial de Heartlake City,Friends,2999,0,8,1237,,FALSE,TRUE,FALSE,Heartlake City Shopping Center,182.3166175
+Hospital de Heartlake City,Friends,2799,0,7,1045,,FALSE,TRUE,FALSE,Heartlake City Hospital,170.1581235
+Centro Comunitario de Heartlake City,Friends,3699,0,9,1513,4.9,FALSE,TRUE,FALSE,Heartlake City Community Center,224.8713465
+Cocina Comunitaria de Heartlake City,Friends,1699,0,8,695,5,FALSE,TRUE,FALSE,Heartlake City Community Kitchen,103.2864065
+Restaurante Clásico de Heartlake,Friends,749,0,6,346,5,FALSE,TRUE,FALSE,Heartlake Classic Restaurant,45.53356003
+Supermercado Orgánico,Friends,2299,30,8,830,4.9,FALSE,TRUE,FALSE,Organic Supermarket,139.7618885
+Coche Eléctrico de Olivia,Friends,349,30,6,183,4.9,FALSE,TRUE,FALSE,Olivia's Electric Car,21.21657203
+Tienda de Dónuts,Friends,259,30,4,63,5,FALSE,TRUE,FALSE,Donut Shop,15.74524973
+Academia Espacial de Olivia,Friends,1799,30,8,757,4.9,FALSE,TRUE,FALSE,Olivia's Space Academy,109.3656535
+Vehículo de Salvamento de Tortugas,Friends,259,30,6,90,4.8,FALSE,TRUE,FALSE,Turtle Rescue Vehicle,15.74524973
+Calendario de Adviento 2023 LEGO® Friends,Friends,869,30,6,231,3.1,FALSE,TRUE,FALSE,LEGO® Friends Advent Calendar 2023,52.82865643
+Escuela Internacional de Heartlake,Friends,2599,0,8,985,4.8,FALSE,TRUE,FALSE,Heartlake International School,157.9996295
+Boutique de Moda Móvil,Friends,259,30,6,94,4.9,FALSE,TRUE,FALSE,Mobile Fashion Boutique,15.74524973
+Casa de Paisley,Friends,999,0,4,185,5,FALSE,TRUE,FALSE,Paisley House,60.73167753
+Puesto Móvil de Té de Burbujas,Friends,259,30,6,109,4.6,FALSE,TRUE,FALSE,Mobile Bubble Tea Stand,15.74524973
+Peluquería,Friends,999,20,6,401,4.8,FALSE,TRUE,FALSE,Hair salon,60.73167753
+Aventura en el Iglú,Friends,1299,30,8,491,4.9,FALSE,TRUE,FALSE,Igloo Adventure,78.96941853
+Autobús de Heartlake City,Friends,1299,0,7,480,4.7,FALSE,TRUE,FALSE,Heartlake City Bus,78.96941853
+Base Espacial de Marte y Cohete,Friends,1999,0,8,981,,FALSE,TRUE,FALSE,Mars Space Base and Rocket,121.5241475
+Pastelería Móvil,Friends,279,0,6,125,,FALSE,TRUE,FALSE,Mobile Pastry Shop,16.96109913
+Autobús de Gran Gira Musical,Friends,2199,0,8,845,,FALSE,TRUE,FALSE,Grand Musical Tour Bus,133.6826415
+Espectáculo de Talentos Musicales de Heartlake City,Friends,1599,0,7,669,,FALSE,TRUE,FALSE,Heartlake City Musical Talent Show,97.20715953
+Bosque: Cascada,Friends,249,30,5,93,4.8,FALSE,TRUE,FALSE,Forest: Waterfall,15.13732503
+Fiesta Musical de Karaoke,Friends,499,0,6,196,,FALSE,TRUE,FALSE,Karaoke Musical Party,30.33544253
+Albergue de Animales de Granja,Friends,1399,0,6,489,,FALSE,TRUE,FALSE,Farm Animal Shelter,85.04866553
+Vehículo de Observación de Estrellas,Friends,759,0,7,364,,FALSE,TRUE,FALSE,Stargazing Vehicle,46.14148473
+Aventura en el Parque Felino,Friends,279,0,5,87,,FALSE,TRUE,FALSE,Adventure in the Feline Park,16.96109913
+Escuela de Teatro de Andrea,Friends,2599,30,8,1154,4.8,FALSE,TRUE,FALSE,Andrea's Theater School,157.9996295
+Tienda de Moda Retro,Friends,1149,0,6,409,,FALSE,TRUE,FALSE,Retro Fashion Store,69.85054803
+Coche Eléctrico y Cargador,Friends,399,0,6,170,,FALSE,TRUE,FALSE,Electric Car and Charger,24.25619553
+Parque para Hámsters,Friends,499,0,6,167,,FALSE,TRUE,FALSE,Hamster Park,30.33544253
+Ambulancia del Hospital de Heartlake City,Friends,869,0,6,344,,FALSE,TRUE,FALSE,Heartlake City Hospital Ambulance,52.82865643
+Hotel Felino,Friends,749,30,6,445,5,FALSE,TRUE,FALSE,Hotel Felino,45.53356003
+Puesto de Tortitas,Friends,279,0,6,157,5,FALSE,TRUE,FALSE,Pancake Stand,16.96109913
+Casa del Árbol de la Amistad,Friends,2099,0,8,1114,4.6,FALSE,TRUE,FALSE,Friendship Tree House,127.6033945
+Camión de Perritos Calientes,Friends,499,0,4,100,,FALSE,TRUE,FALSE,Hot Dog Truck,30.33544253
+Minitienda de Accesorios,Friends,279,0,6,129,,FALSE,TRUE,FALSE,Mini Accessories Store,16.96109913
+Parque de Atracciones en la Playa,Friends,2999,0,12,1348,4.8,FALSE,TRUE,FALSE,Beach Amusement Park,182.3166175
+Centro de Día para Mascotas,Friends,1799,30,7,593,4.9,FALSE,TRUE,FALSE,Pet Day Center,109.3656535
+Camión de los Helados,Friends,529,30,4,84,4.9,FALSE,TRUE,FALSE,Ice Cream Truck,32.15921663
+Divertido Buggy Playero,Friends,279,0,4,61,4.4,FALSE,TRUE,FALSE,Fun Beach Buggy,16.96109913
+Habitación de Nova,Friends,499,0,6,179,4.8,FALSE,TRUE,FALSE,Nova's room,30.33544253
+Casa de Autumn,Friends,1799,0,7,853,4.9,FALSE,TRUE,FALSE,Autumn's House,109.3656535
+Habitación de Liann,Friends,499,0,6,204,5,FALSE,TRUE,FALSE,Liann's room,30.33544253
+Pista de Esquí y Cafetería,Friends,1999,0,9,980,4.9,FALSE,TRUE,FALSE,Ski Slope and Cafe,121.5241475
+Parque Acuático,Friends,1299,30,6,373,4.9,FALSE,TRUE,FALSE,Water park,78.96941853
+Bici de Rescate Canino,Friends,259,0,6,125,4.9,FALSE,TRUE,FALSE,Canine Rescue Bike,15.74524973
+Granja Orgánica,Friends,2399,30,7,826,5,FALSE,TRUE,FALSE,Organic Farm,145.8411355
+Vehículo de Plantación de Árboles,Friends,799,30,6,336,4.9,FALSE,TRUE,FALSE,Tree Planting Vehicle,48.57318353
+Excursión de Vacaciones,Friends,499,20,4,87,4.8,FALSE,TRUE,FALSE,Vacation Excursion,30.33544253
+Habitación de Leo,Friends,499,0,6,203,4.8,FALSE,TRUE,FALSE,Leo's room,30.33544253
+Pizzería de Heartlake City,Friends,399,30,5,144,4.9,FALSE,TRUE,FALSE,Heartlake City Pizzeria,24.25619553
+Salón Recreativo Roller Disco,Friends,1599,30,7,642,4.9,FALSE,TRUE,FALSE,Roller Disco Recreational Lounge,97.20715953
+Unidad Móvil de Noticias,Friends,759,0,6,446,4.9,FALSE,TRUE,FALSE,Mobile News Unit,46.14148473
+Centro de Rescate Canino,Friends,1499,0,7,617,5,FALSE,TRUE,FALSE,Canine Rescue Center,91.12791253
+Cobertizo del Ternero de Autumn,Friends,279,0,5,79,,FALSE,TRUE,FALSE,Autumn's Calf Shed,16.96109913
+Día de Adopción de Mascotas,Friends,1149,0,6,400,,FALSE,TRUE,FALSE,Pet Adoption Day,69.85054803
+Remolque para Caballo y Poni,Friends,499,0,4,105,,FALSE,TRUE,FALSE,Horse and Pony Trailer,30.33544253
+Avión de Rescate Marítimo,Friends,499,0,6,203,5,FALSE,TRUE,FALSE,Maritime Rescue Plane,30.33544253
+Camión de Reciclaje,Friends,529,30,6,259,4.7,FALSE,TRUE,FALSE,Recycling Truck,32.15921663
+Barco de Rescate Marítimo,Friends,1999,0,7,717,4.8,FALSE,TRUE,FALSE,Maritime Rescue Boat,121.5241475
+Aventura Marinera de Stephanie,Friends,1099,0,7,304,5,FALSE,TRUE,FALSE,Stephanie's Sailor Adventure,66.81092453
+Centro Deportivo,Friends,2399,0,8,832,4.9,FALSE,TRUE,FALSE,Sport Center,145.8411355
+Clínica Veterinaria de Animales de Granja,Friends,759,0,4,161,,FALSE,TRUE,FALSE,Farm Animal Veterinary Clinic,46.14148473
+Parque de Skate,Friends,1299,20,6,431,4.9,FALSE,TRUE,FALSE,Skate Park,78.96941853
+Clase de Equitación,Friends,759,0,4,134,5,FALSE,TRUE,FALSE,Horse Riding Class,46.14148473
+Habitación de Aliya,Friends,499,0,6,209,4.8,FALSE,TRUE,FALSE,Aliya's room,30.33544253
+Furgoneta de Rescate Canino,Friends,749,20,6,300,4.7,FALSE,TRUE,FALSE,Canine Rescue Van,45.53356003
+Establo de Autumn,Friends,1499,0,7,545,4.7,FALSE,TRUE,FALSE,Autumn's Stable,91.12791253
+Estación de Lavado de Ponis,Friends,259,30,4,60,4.9,FALSE,TRUE,FALSE,Pony Washing Station,15.74524973
+Centro de Rescate Marítimo,Friends,1299,0,7,376,4.7,FALSE,TRUE,FALSE,Maritime Rescue Center,78.96941853
+Rescate de la Fauna Salvaje de Mia,Friends,1299,30,7,430,4.9,FALSE,TRUE,FALSE,Mia's Wildlife Rescue,78.96941853
+Glamping en la Playa,Friends,1099,30,6,380,4.9,FALSE,TRUE,FALSE,Glamping on the Beach,66.81092453
+Cafetería de Adopción de Mascotas,Friends,799,30,6,292,4.9,FALSE,TRUE,FALSE,Pet Adoption Cafe,48.57318353
+Remolque de Exhibición Equina,Friends,2599,0,8,989,5,FALSE,TRUE,FALSE,Equine Exhibition Trailer,157.9996295
+Banco Mágico Gringotts™: Edición para Coleccionistas,Harry Potter™,10499,0,18,4801,4.8,FALSE,FALSE,TRUE,Gringotts™ Magic Bank: Collector's Edition,638.2601425
+Castillo de Hogwarts™,Harry Potter™,10999,0,16,6020,4.7,FALSE,FALSE,TRUE,Hogwarts™ Castle,668.6563775
+Castillo y Terrenos de Hogwarts™,Harry Potter™,4199,0,18,2660,4.6,FALSE,FALSE,TRUE,Hogwarts™ Castle and Grounds,255.2675815
+Callejón Diagon,Harry Potter™,10499,0,16,5544,4.6,FALSE,FALSE,TRUE,Diagon Alley,638.2601425
+Dobby™ el Elfo Doméstico,Harry Potter™,869,0,8,403,4.8,FALSE,FALSE,FALSE,Dobby™ the House Elf,52.82865643
+Iconos de Hogwarts™: Edición para Coleccionistas,Harry Potter™,7499,0,18,3010,4.8,FALSE,FALSE,TRUE,Hogwarts™ Icons: Collector's Edition,455.8827325
+Dragón Colacuerno Húngaro,Harry Potter™,1299,0,10,671,4.6,FALSE,FALSE,FALSE,Hungarian Horntail Dragon,78.96941853
+Expreso de Hogwarts: Edición para Coleccionistas,Harry Potter™,12499,30,18,5129,3.9,FALSE,FALSE,TRUE,Hogwarts Express: Collector's Edition,759.8450825
+Batalla de Hogwarts™,Harry Potter™,1999,0,9,730,4.6,FALSE,FALSE,FALSE,Battle of Hogwarts™,121.5241475
+Expecto Patronum,Harry Potter™,1799,0,14,754,4.4,FALSE,FALSE,TRUE,Expecto Patronum,109.3656535
+Ministerio de Magia,Harry Potter™,2599,30,9,990,3.6,FALSE,FALSE,FALSE,Ministry of Magic,157.9996295
+Ford Anglia™ Volador,Harry Potter™,349,0,7,165,,FALSE,FALSE,FALSE,Flying Ford Anglia™,21.21657203
+Hogwarts™: Sala de los Menesteres,Harry Potter™,1299,20,8,587,4.8,FALSE,FALSE,FALSE,Hogwarts™: Room of Requirement,78.96941853
+Hogwarts™: Cámara Secreta,Harry Potter™,3999,0,9,1176,4.4,FALSE,FALSE,FALSE,Hogwarts™: Chamber of Secrets,243.1090875
+Cabaña de Hagrid: Una Visita Inesperada,Harry Potter™,1899,0,8,896,,FALSE,FALSE,FALSE,Hagrid's Hut: An Unexpected Visit,115.4449005
+Callejón Diagon: Sortilegios Weasley,Harry Potter™,2299,0,8,834,4.9,FALSE,FALSE,FALSE,Diagon Alley: Weasley Wizard Wheezes,139.7618885
+Ala de Enfermería de Hogwarts™,Harry Potter™,1299,30,8,510,4.6,FALSE,FALSE,FALSE,Hogwarts™ Infirmary Wing,78.96941853
+Torneo de los Tres Magos: El Lago Negro,Harry Potter™,1099,0,8,349,4.7,FALSE,FALSE,FALSE,Triwizard Tournament: The Black Lake,66.81092453
+"Harry, Hermione, Ron y Hagrid™",Harry Potter™,619,30,10,466,4.7,FALSE,FALSE,FALSE,"Harry, Hermione, Ron and Hagrid™",37.63053893
+Llavero de Hermione,Harry Potter™,149,0,6,1,,TRUE,FALSE,FALSE,Hermione keychain,9.05807803
+Lechucería del Castillo de Hogwarts™,Harry Potter™,1149,0,8,364,,FALSE,FALSE,FALSE,Hogwarts™ Castle Owlery,69.85054803
+Patio de Hogwarts™: Rescate de Sirius,Harry Potter™,1299,30,8,345,2.9,FALSE,FALSE,FALSE,Hogwarts™ Yard: Sirius Rescue,78.96941853
+Estandarte de la Casa Slytherin™,Harry Potter™,849,30,9,349,3.7,FALSE,FALSE,FALSE,Slytherin™ House Banner,51.61280703
+Visita a la Aldea de Hogsmeade™,Harry Potter™,2299,0,8,851,4.5,FALSE,FALSE,FALSE,Visit to Hogsmeade™ Village,139.7618885
+Harry Potter™ y Cho Chang,Harry Potter™,499,0,10,267,5,FALSE,FALSE,FALSE,Harry Potter™ and Cho Chang,30.33544253
+Bosque Prohibido: Criaturas Mágicas,Harry Potter™,759,0,8,172,,FALSE,FALSE,FALSE,Forbidden Forest: Magical Creatures,46.14148473
+Tren Hogwarts Express™ con estación de Hogsmeade™,Harry Potter™,3399,0,8,1074,4.6,FALSE,FALSE,FALSE,Hogwarts Express™ Train with Hogsmeade™ Station,206.6336055
+Hogwarts™: Despacho de Dumbledore,Harry Potter™,2099,0,8,654,4.7,FALSE,FALSE,FALSE,Hogwarts™: Dumbledore's Office,127.6033945
+Casa de los Gritos y Sauce Boxeador,Harry Potter™,2399,0,9,777,4.8,FALSE,FALSE,FALSE,Shrieking House and Whomping Willow,145.8411355
+Baúl de Quidditch™,Harry Potter™,1699,0,9,599,4.4,FALSE,FALSE,FALSE,Quidditch™ Trunk,103.2864065
+Cobertizo del Castillo de Hogwarts™,Harry Potter™,949,0,8,350,,FALSE,FALSE,FALSE,Hogwarts™ Castle Shed,57.69205403
+Número 12 de Grimmauld Place,Harry Potter™,3199,0,8,1083,4.3,FALSE,FALSE,FALSE,12 Grimmauld Place,194.4751115
+Torre de Astronomía de Hogwarts™,Harry Potter™,2599,0,9,971,4.5,FALSE,FALSE,FALSE,Hogwarts™ Astronomy Tower,157.9996295
+Baúl Mágico de Hogwarts™,Harry Potter™,1599,30,8,603,4.2,FALSE,FALSE,FALSE,Hogwarts™ Magical Trunk,97.20715953
+LEGO® Harry Potter™: Calendario de Adviento 2023,Harry Potter™,1149,30,7,227,4,FALSE,FALSE,FALSE,LEGO® Harry Potter™: Advent Calendar 2023,69.85054803
+Carruaje y Thestrals de Hogwarts™,Harry Potter™,529,0,7,121,4.5,FALSE,FALSE,FALSE,Hogwarts™ Carriage and Thestrals,32.15921663
+Hedwig™ en el Número 4 de Privet Drive,Harry Potter™,499,0,7,337,,FALSE,FALSE,FALSE,Hedwig™ at Number 4 Privet Drive,30.33544253
+Estandarte de la Casa Gryffindor™,Harry Potter™,849,30,9,285,4.4,FALSE,FALSE,FALSE,Gryffindor™ House Banner,51.61280703
+Llavero de Voldemort™,Harry Potter™,149,30,6,1,,TRUE,FALSE,FALSE,Voldemort™ Keychain,9.05807803
+Número 4 de Privet Drive,Harry Potter™,1999,0,8,797,4.7,FALSE,FALSE,FALSE,Number 4 Privet Drive,121.5241475
+Pack de Accesorios: Hogwarts™,Harry Potter™,349,30,8,234,2.7,FALSE,FALSE,FALSE,Accessory Pack: Hogwarts™,21.21657203
+Profesores de Hogwarts™,Harry Potter™,999,30,10,601,4.8,FALSE,FALSE,FALSE,Hogwarts™ Professors,60.73167753
+Llavero de Dumbledore,Harry Potter™,149,30,6,1,5,TRUE,FALSE,FALSE,Dumbledore keychain,9.05807803
+Draco Malfoy™ y Cedric Diggory,Harry Potter™,499,0,10,262,5,FALSE,FALSE,FALSE,Draco Malfoy™ and Cedric Diggory,30.33544253
+Kit de Escritorio: Hogwarts™,Harry Potter™,1099,30,8,856,3.7,FALSE,FALSE,FALSE,Desk Kit: Hogwarts™,66.81092453
+Kingsley Shacklebolt™ y Nymphadora Tonks™,Harry Potter™,499,20,10,250,5,FALSE,FALSE,FALSE,Kingsley Shacklebolt™ and Nymphadora Tonks™,30.33544253
+Llavero de Harry Potter™,Harry Potter™,149,0,6,1,5,TRUE,FALSE,FALSE,Harry Potter™ keychain,9.05807803
+Hogwarts™: Fallo de la Poción Multijugos,Harry Potter™,469,0,7,217,4.8,FALSE,FALSE,FALSE,Hogwarts™: Polyjuice Potion Glitch,28.51166843
+Estandarte de la Casa Hufflepuff™,Harry Potter™,849,20,9,313,4.3,FALSE,FALSE,FALSE,Hufflepuff™ House Banner,51.61280703
+Hedwig™,Harry Potter™,999,0,10,630,4.6,FALSE,FALSE,FALSE,Hedwig™,60.73167753
+Estandarte de la Casa Ravenclaw™,Harry Potter™,849,30,9,305,4.3,FALSE,FALSE,FALSE,Ravenclaw™ House Banner,51.61280703
+Portalápices Hedwig™,Harry Potter™,529,30,6,518,5,FALSE,FALSE,FALSE,Hedwig™ Pencil Holder,32.15921663
+Llavero de Ron,Harry Potter™,149,20,6,1,,TRUE,FALSE,FALSE,Rum Keychain,9.05807803
+Cámara Polaroid OneStep SX-70,Ideas,1999,0,18,516,4.6,FALSE,TRUE,TRUE,Polaroid OneStep SX-70 Camera,121.5241475
+Tren Orient Express,Ideas,7499,0,18,2540,4,FALSE,TRUE,TRUE,Orient Express Train,455.8827325
+The Office,Ideas,2999,0,18,1164,4.5,FALSE,TRUE,TRUE,The Office,182.3166175
+Vincent van Gogh: La Noche Estrellada,Ideas,4299,0,18,2316,4.9,FALSE,TRUE,TRUE,Vincent van Gogh: The Starry Night,261.3468285
+LEGO® Ideas: Home Alone,Ideas,7299,0,18,3955,4.8,FALSE,TRUE,TRUE,LEGO® Ideas: Home Alone,443.7242385
+Historias de la Era Espacial,Ideas,1299,0,18,688,4.8,FALSE,TRUE,TRUE,Stories from the Space Age,78.96941853
+Colección de Insectos,Ideas,1999,0,18,1111,4.9,FALSE,TRUE,TRUE,Insect Collection,121.5241475
+Disney El Retorno de las Brujas: Cabaña de las Hermanas Sanderson,Ideas,5499,0,18,2316,4.6,FALSE,TRUE,TRUE,Disney Return of the Witches: Sanderson Sisters' Cabin,334.2977925
+Globo Terráqueo,Ideas,5499,0,18,2585,4.6,FALSE,TRUE,TRUE,Globe,334.2977925
+Cabaña en A,Ideas,4299,0,18,2082,4.9,FALSE,TRUE,TRUE,Cabin in A,261.3468285
+BTS Dynamite,Ideas,2599,20,18,749,4.7,FALSE,TRUE,TRUE,BTS Dynamite,157.9996295
+Cuarteto de Jazz,Ideas,2599,0,18,1606,4.7,FALSE,TRUE,TRUE,Jazz Quartet,157.9996295
+Casa del Árbol,Ideas,5799,0,16,3036,4.6,FALSE,TRUE,TRUE,Tree house,352.5355335
+LEGO® Ideas: Fender® Stratocaster™,Ideas,2999,0,18,1074,4.7,FALSE,TRUE,TRUE,LEGO® Ideas: Fender® Stratocaster™,182.3166175
+Máquina de Escribir,Ideas,6199,0,18,2079,4.4,FALSE,TRUE,TRUE,Typewriter,376.8525215
+Poblado Vikingo,Ideas,3399,0,18,2103,4.8,FALSE,TRUE,TRUE,Viking Village,206.6336055
+Piano de Cola,Ideas,9499,0,18,3662,5,FALSE,TRUE,TRUE,Grand piano,577.4676725
+Faro Motorizado,Ideas,7499,30,18,2065,4.6,FALSE,TRUE,TRUE,Motorized Headlight,455.8827325
+Sonic the Hedgehog™ – Green Hill Zone,Ideas,1999,0,18,1125,4.6,FALSE,TRUE,TRUE,Sonic the Hedgehog™ – Green Hill Zone,121.5241475
+Futbolín,Ideas,6199,40,18,2339,3.9,FALSE,TRUE,TRUE,Football,376.8525215
+Winnie the Pooh,Ideas,2599,0,18,1265,4.7,FALSE,TRUE,TRUE,Winnie the Pooh,157.9996295
+Herrería Medieval,Ideas,4299,0,18,2164,4.9,FALSE,TRUE,TRUE,Medieval Blacksmithing,261.3468285
+Árbol de la Familia,Ideas,1999,0,18,1040,,FALSE,TRUE,TRUE,Family tree,121.5241475
+Fósiles de Dinosaurio: Cráneo de T. rex,Jurassic World,999,0,9,577,,FALSE,FALSE,FALSE,Dinosaur Fossils: T. rex Skull,60.73167753
+Fuga del T. rex,Jurassic World,2599,0,18,1212,4.6,FALSE,FALSE,TRUE,T. rex escape,157.9996295
+Centro de Rescate de Crías de Dinosaurio,Jurassic World,999,0,4,139,,FALSE,FALSE,FALSE,Baby Dinosaur Rescue Center,60.73167753
+Descubrimiento del Braquiosaurio,Jurassic World,1999,0,9,512,4.4,FALSE,FALSE,FALSE,Discovery of the Brachiosaurus,121.5241475
+Emboscada al Dilofosaurio,Jurassic World,499,0,6,211,4.6,FALSE,FALSE,FALSE,Dilophosaurus Ambush,30.33544253
+Análisis del Triceratops,Jurassic World,1299,0,8,281,3.9,FALSE,FALSE,FALSE,Analysis of Triceratops,78.96941853
+Huida del Velocirraptor,Jurassic World,999,0,4,137,3.1,FALSE,FALSE,FALSE,Velociraptor Escape,60.73167753
+Persecución en Moto del Dinosaurio Atrocirraptor,Jurassic World,529,30,6,169,4.6,FALSE,FALSE,FALSE,Atrociraptor Dinosaur Motorcycle Chase,32.15921663
+Centro de Visitantes: T. rex y Ataque del Raptor,Jurassic World,3399,30,12,693,4.3,FALSE,FALSE,FALSE,Visitor Center: T. rex and Raptor Attack,206.6336055
+Ataque del Giganotosaurio y el Therizinosaurio,Jurassic World,3699,0,9,810,4.9,FALSE,FALSE,FALSE,Attack of the Giganotosaurus and Therizinosaur,224.8713465
+Fuga de los Dinosaurios T. rex y Atrocirraptor,Jurassic World,2599,30,8,466,4.7,FALSE,FALSE,FALSE,Escape of the T. rex and Atrociraptor Dinosaurs,157.9996295
+Emboscada en Furgoneta del Triceratops,Jurassic World,1099,30,7,210,5,FALSE,FALSE,FALSE,Triceratops Van Ambush,66.81092453
+Fuga del Dinosaurio T. rex,Jurassic World,1299,0,4,140,4.3,FALSE,FALSE,FALSE,T. rex Dinosaur Escape,78.96941853
+Captura de los Velocirraptores Blue y Beta,Jurassic World,799,0,6,181,4.8,FALSE,FALSE,FALSE,Capture of the Blue and Beta Velociraptors,48.57318353
+Emboscada Aérea del Quetzalcoatlus,Jurassic World,1099,30,7,306,4.9,FALSE,FALSE,FALSE,Quetzalcoatlus Aerial Ambush,66.81092453
+Transporte del Pyrorraptor y el Dilofosaurio,Jurassic World,1099,0,7,254,4.4,FALSE,FALSE,FALSE,Transport of Pyrorraptor and Dilophosaurus,66.81092453
+Caza del Pteranodon,Jurassic World,529,30,4,94,4.8,FALSE,FALSE,FALSE,Pteranodon Hunt,32.15921663
+MiniNook y casa de Minina,LEGO® Animal Crossing™,1899,0,7,535,,FALSE,FALSE,FALSE,MiniNook and Minina's house,115.4449005
+La visita de Canela,LEGO® Animal Crossing™,999,0,6,389,,FALSE,FALSE,FALSE,Cinnamon's visit,60.73167753
+Paseo en barca con el Capitán,LEGO® Animal Crossing™,759,0,6,233,,FALSE,FALSE,FALSE,Boat ride with the Captain,46.14148473
+Fiesta de cumpleaños de Azulino,LEGO® Animal Crossing™,349,0,6,170,,FALSE,FALSE,FALSE,Azulino's birthday party,21.21657203
+Bunnie's Outdoor Activities,LEGO® Animal Crossing™,499,0,6,164,,FALSE,FALSE,FALSE,Bunnie's Outdoor Activities,30.33544253
+Hokusai: La Gran Ola,LEGO® Art,2599,0,18,1810,4.7,FALSE,TRUE,TRUE,Hokusai: The Great Wave,157.9996295
+El Increíble Spider-Man,LEGO® Art,4999,0,18,2099,5,FALSE,TRUE,TRUE,The Incredible Spider-Man,303.9015575
+Arte Floral,LEGO® Art,2099,30,18,2870,4.3,FALSE,TRUE,TRUE,Floral Art,127.6033945
+Colección Fauna: Guacamayos,LEGO® Art,1499,0,18,644,5,FALSE,TRUE,TRUE,Fauna Collection: Macaws,91.12791253
+The Rolling Stones,LEGO® Art,3999,30,18,1998,3.1,FALSE,TRUE,TRUE,The Rolling Stones,243.1090875
+Arte Moderno,LEGO® Art,1299,0,18,805,3.7,FALSE,TRUE,TRUE,Modern Art,78.96941853
+Jim Lee: Colección de Batman™,LEGO® Art,3199,30,18,4167,4.8,FALSE,TRUE,TRUE,Jim Lee: Batman™ Collection,194.4751115
+Mapamundi,LEGO® Art,6199,0,18,11695,4.3,FALSE,TRUE,TRUE,World map,376.8525215
+Toruk Makto y Árbol de las Almas,LEGO® Avatar,3999,0,12,1212,4.7,FALSE,FALSE,FALSE,Toruk Makto and Tree of Souls,243.1090875
+Montañas Flotantes: Sector 26 y Samson de la RDA,LEGO® Avatar,2599,40,9,887,4.8,FALSE,FALSE,FALSE,Floating Mountains: Sector 26 and Samson of the GDR,157.9996295
+Primer Vuelo en Banshee de Jake y Neytiri,LEGO® Avatar,1599,0,9,572,4.9,FALSE,FALSE,FALSE,Jake and Neytiri's First Banshee Flight,97.20715953
+Neytiri y Thanator vs. Quaritch con Armadura AMP,LEGO® Avatar,1099,30,9,560,4.8,FALSE,FALSE,FALSE,Neytiri and Thanator vs. Quaritch with AMP Armor,66.81092453
+Descubrimiento del Ilu,LEGO® Avatar,599,0,8,179,5,FALSE,FALSE,FALSE,Discovery of the Illu,36.41468953
+Aventura en Skimwing,LEGO® Avatar,849,0,8,259,4.8,FALSE,FALSE,FALSE,Skimwing Adventure,51.61280703
+Submarino Mako,LEGO® Avatar,1499,30,9,553,4.8,FALSE,FALSE,FALSE,Mako Submarine,91.12791253
+Jake Sully y su Avatar,LEGO® Avatar,499,40,10,246,5,FALSE,FALSE,FALSE,Jake Sully and his Avatar,30.33544253
+Payakan el Tulkun y Crabsuit,LEGO® Avatar,2599,30,10,761,4.7,FALSE,FALSE,FALSE,Payakan the Tulkun and Crabsuit,157.9996295
+Hogar en el Arrecife de los Metkayina,LEGO® Avatar,1999,30,9,528,4.8,FALSE,FALSE,FALSE,Metkayina Reef Home,121.5241475
+Navetiburón de las Pesadillas,LEGO® DREAMZzz™,3699,0,10,1389,4.8,FALSE,TRUE,FALSE,Nightmare Sharkship,224.8713465
+Aldea de los Sueños,LEGO® DREAMZzz™,699,0,7,434,4.8,FALSE,TRUE,FALSE,Dream Village,42.49393653
+Furgoneta-Tortuga de la Sra. Castillo,LEGO® DREAMZzz™,1199,0,7,434,4.9,FALSE,TRUE,FALSE,Mrs. Castillo's Turtle Van,72.89017153
+Globo-Narval de Izzie,LEGO® DREAMZzz™,399,0,7,156,,FALSE,TRUE,FALSE,Izzie's Balloon-Narwhal,24.25619553
+Mateo y Z-Blob Robot,LEGO® DREAMZzz™,499,0,7,237,4.9,FALSE,TRUE,FALSE,Mateo and Z-Blob Robot,30.33544253
+Coche Todoterreno de Mateo,LEGO® DREAMZzz™,259,0,7,94,,FALSE,TRUE,FALSE,Mateo's All-Terrain Car,15.74524973
+Torre del Sandman,LEGO® DREAMZzz™,2299,0,9,723,,FALSE,TRUE,FALSE,Sandman Tower,139.7618885
+Coche Espacial del Sr. Oz,LEGO® DREAMZzz™,759,0,8,350,,FALSE,TRUE,FALSE,Mr. Oz's Space Car,46.14148473
+Zoey y Zian el Gato-Búho,LEGO® DREAMZzz™,1299,0,9,437,,FALSE,TRUE,FALSE,Zoey and Zian the Owl-Cat,78.96941853
+Casa del Árbol Fantástica,LEGO® DREAMZzz™,2799,0,9,1257,4.9,FALSE,TRUE,FALSE,Fantastic Tree House,170.1581235
+Autobús Espacial del Sr. Oz,LEGO® DREAMZzz™,2599,0,9,878,5,FALSE,TRUE,FALSE,Mr. Oz's Space Bus,157.9996295
+Coche-Cocodrilo,LEGO® DREAMZzz™,1499,0,8,494,4.9,FALSE,TRUE,FALSE,Car-Crocodile,91.12791253
+Monstruo de la Jaula,LEGO® DREAMZzz™,949,0,7,274,5,FALSE,TRUE,FALSE,Cage Monster,57.69205403
+Caballo Volador Pegaso,LEGO® DREAMZzz™,1299,0,8,482,4.9,FALSE,TRUE,FALSE,Pegasus Flying Horse,78.96941853
+Izzie y el Conejo Bunchu,LEGO® DREAMZzz™,499,0,7,259,5,FALSE,TRUE,FALSE,Izzie and the Bunchu Rabbit,30.33544253
+Establo de Criaturas de los Sueños,LEGO® DREAMZzz™,1999,0,8,681,4.8,FALSE,TRUE,FALSE,Dream Creatures Stable,121.5241475
+La Casa de Muñecas de Gabby,LEGO® La Casa de Muñecas de Gabby,1999,0,4,498,4.3,FALSE,FALSE,FALSE,Gabby's Dollhouse,121.5241475
+Fiesta en el Jardín de Hadigata,LEGO® La Casa de Muñecas de Gabby,869,0,4,130,5,FALSE,FALSE,FALSE,Hadigata Garden Party,52.82865643
+Barco y Spa de Gabby y Siregata,LEGO® La Casa de Muñecas de Gabby,499,0,4,88,4.8,FALSE,FALSE,FALSE,Gabby and Siregata's Boat and Spa,30.33544253
+Horno de Muffin,LEGO® La Casa de Muñecas de Gabby,279,0,4,58,5,FALSE,FALSE,FALSE,Muffin Oven,16.96109913
+Ramo de Rosas,LEGO® Icons,1499,0,18,822,5,FALSE,TRUE,TRUE,Bouquet of roses,91.12791253
+Plantas Diminutas,LEGO® Icons,1299,0,18,758,4.8,FALSE,TRUE,TRUE,Tiny Plants,78.96941853
+Ramo de Flores Silvestres,LEGO® Icons,1499,0,18,939,4.9,FALSE,TRUE,TRUE,Wild Flower Bouquet,91.12791253
+Bonsái,LEGO® Icons,1299,0,18,878,4.5,FALSE,TRUE,TRUE,Bonsai,78.96941853
+Orquídeas,LEGO® Icons,1299,0,18,608,4.8,FALSE,TRUE,TRUE,orchids,78.96941853
+Torre Eiffel,LEGO® Icons,14999,0,18,10001,4.2,FALSE,TRUE,TRUE,Eiffel Tower,911.8262575
+LEGO®: Titanic,LEGO® Icons,16499,0,18,9090,4.8,FALSE,TRUE,TRUE,LEGO®: Titanic,1003.014963
+Ramo de Flores,LEGO® Icons,1499,0,18,756,4.9,FALSE,TRUE,TRUE,Bouquet of flowers,91.12791253
+Museo de Historia Natural,LEGO® Icons,7499,0,18,4014,4.7,FALSE,TRUE,TRUE,Museum of Natural History,455.8827325
+Concorde,LEGO® Icons,4999,0,18,2083,4.8,FALSE,TRUE,TRUE,concorde,303.9015575
+Máquina de PAC-MAN,LEGO® Icons,6699,0,18,2651,4.8,FALSE,TRUE,TRUE,PAC-MAN machine,407.2487565
+Castillo de los Caballeros del León,LEGO® Icons,9499,30,18,4514,4.7,FALSE,TRUE,TRUE,Lion Knights Castle,577.4676725
+EL SEÑOR DE LOS ANILLOS: RIVENDEL,LEGO® Icons,12499,0,18,6167,4.9,FALSE,TRUE,TRUE,THE LORD OF THE RINGS: RIVENDEL,759.8450825
+Corvette,LEGO® Icons,3999,0,18,1210,4.8,FALSE,TRUE,TRUE,Corvette,243.1090875
+Suculentas,LEGO® Icons,1299,0,18,771,4.8,FALSE,TRUE,TRUE,Succulents,78.96941853
+Jardín Meditativo,LEGO® Icons,2799,0,18,1363,5,FALSE,TRUE,TRUE,Meditative Garden,170.1581235
+Chevrolet Camaro Z28,LEGO® Icons,4099,30,18,1456,4.7,FALSE,TRUE,TRUE,Chevrolet Camaro Z28,249.1883345
+Refugio Alpino,LEGO® Icons,2599,0,18,1517,4.7,FALSE,TRUE,TRUE,Alpine Refuge,157.9996295
+Centro de Flores Secas,LEGO® Icons,1299,0,18,812,4.7,FALSE,TRUE,TRUE,Dried Flower Center,78.96941853
+Porsche 911,LEGO® Icons,4099,0,18,1458,4.6,FALSE,TRUE,TRUE,porsche 911,249.1883345
+Máquina del Tiempo de Regreso al Futuro,LEGO® Icons,4999,0,18,1872,4.5,FALSE,TRUE,TRUE,Back to the Future Time Machine,303.9015575
+Montaña Rusa con Rizos,LEGO® Icons,9499,30,18,3756,4,FALSE,TRUE,TRUE,Roller Coaster with Curls,577.4676725
+Fortaleza Eldorado,LEGO® Icons,5299,0,18,2509,4.7,FALSE,TRUE,TRUE,Eldorado Fortress,322.1392985
+Transbordador Espacial Discovery de la NASA,LEGO® Icons,4999,0,18,2354,4.8,FALSE,TRUE,TRUE,NASA Space Shuttle Discovery,303.9015575
+Vespa 125,LEGO® Icons,2599,0,18,1107,3.9,FALSE,TRUE,TRUE,Vespa 125,157.9996295
+Club de Jazz,LEGO® Icons,5499,0,18,2899,4.2,FALSE,TRUE,TRUE,Jazz Club,334.2977925
+Atari® 2600,LEGO® Icons,5799,30,18,2532,4.8,FALSE,TRUE,TRUE,Atari® 2600,352.5355335
+Dune: Atreides Royal Ornithopter,LEGO® Icons,4099,0,18,1369,,FALSE,TRUE,TRUE,Dune: Atreides Royal Ornithopter,249.1883345
+Land Rover Classic Defender 90,LEGO® Icons,5799,0,18,2336,4.3,FALSE,TRUE,TRUE,Land Rover Classic Defender 90,352.5355335
+ECTO-1 de los Cazafantasmas,LEGO® Icons,5799,0,18,2352,4.6,FALSE,TRUE,TRUE,Ghostbusters ECTO-1,352.5355335
+Casa Encantada de la Feria,LEGO® Icons,7299,0,18,3231,4.5,FALSE,TRUE,TRUE,Haunted Fair House,443.7242385
+Hotel Boutique,LEGO® Icons,5499,0,18,3066,4.5,FALSE,TRUE,TRUE,Boutique hotel,334.2977925
+Optimus Prime,LEGO® Icons,4299,0,18,1508,4.2,FALSE,TRUE,TRUE,Optimus Prime,261.3468285
+Furgoneta Clásica,LEGO® Icons,3399,0,18,1677,4.1,FALSE,TRUE,TRUE,Classic Van,206.6336055
+Calle Principal en Navidad,LEGO® Icons,2599,0,18,1514,4.3,FALSE,TRUE,TRUE,Main Street at Christmas,157.9996295
+Galaxy Explorer,LEGO® Icons,2599,30,18,1254,4.8,FALSE,TRUE,TRUE,Galaxy Explorer,157.9996295
+Coliseo,LEGO® Icons,12999,30,18,9036,4.3,FALSE,TRUE,TRUE,Coliseum,790.2413175
+Estadio del Real Madrid – Santiago Bernabéu,LEGO® Icons,9499,30,18,5876,4.8,FALSE,TRUE,TRUE,Real Madrid Stadium – Santiago Bernabéu,577.4676725
+Apartamentos de Friends,LEGO® Icons,4299,0,18,2048,4.6,FALSE,TRUE,TRUE,Friends Apartments,261.3468285
+Ave del Paraíso,LEGO® Icons,2599,0,18,1173,4.6,FALSE,TRUE,TRUE,Bird from paradise,157.9996295
+Comisaría de Policía,LEGO® Icons,4999,30,18,2923,4.5,FALSE,TRUE,TRUE,Police station,303.9015575
+Visita de Papá Noel,LEGO® Icons,2599,20,18,1445,4.8,FALSE,TRUE,TRUE,Visit from Santa Claus,157.9996295
+Huida de la Tumba Perdida,LEGO® Indiana Jones™,999,30,8,600,4.8,FALSE,FALSE,FALSE,Escape from the Lost Tomb,60.73167753
+Templo del Ídolo Dorado,LEGO® Indiana Jones™,3999,0,18,1545,4.8,FALSE,FALSE,TRUE,Temple of the Golden Idol,243.1090875
+Persecución del Caza,LEGO® Indiana Jones™,849,0,8,387,4.6,FALSE,FALSE,FALSE,Fighter Pursuit,51.61280703
+Planta Piraña,LEGO® Super Mario™,1499,0,18,540,4.7,FALSE,FALSE,TRUE,Piranha Plant,91.12791253
+Nintendo Entertainment System™,LEGO® Super Mario™,6499,0,18,2646,4.7,FALSE,FALSE,TRUE,Nintendo Entertainment System™,395.0902625
+El Poderoso Bowser™,LEGO® Super Mario™,6499,0,18,2807,5,FALSE,FALSE,TRUE,The Mighty Bowser™,395.0902625
+Pack Inicial: Aventuras con Mario,LEGO® Super Mario™,1499,0,6,231,3.5,FALSE,FALSE,FALSE,Starter Pack: Adventures with Mario,91.12791253
+Bloque Interrogación de Super Mario 64™,LEGO® Super Mario™,4999,0,18,2064,4.7,FALSE,FALSE,TRUE,Super Mario 64™ Interrogation Block,303.9015575
+Set de Expansión: Coche monstruoso de Bowser,LEGO® Super Mario™,759,0,8,458,,FALSE,FALSE,FALSE,Expansion Set: Bowser's Monster Car,46.14148473
+Set de Expansión: Aventura en la nieve de la familia Pingüi,LEGO® Super Mario™,469,0,7,228,5,FALSE,FALSE,FALSE,Expansion Set: Snow Adventure of the Pingüi Family,28.51166843
+Set de Expansión: Caco Gazapo en la tienda de Toad,LEGO® Super Mario™,469,0,7,230,,FALSE,FALSE,FALSE,Expansion Set: Caco Gazapo in Toad's Shop,28.51166843
+Set de Expansión: Huevo de Yoshi en el bosque,LEGO® Super Mario™,259,0,6,107,,FALSE,FALSE,FALSE,Expansion Set: Yoshi's Egg in the Forest,15.74524973
+Set de Expansión: Dorrie y el buque naufragado,LEGO® Super Mario™,1149,0,7,500,,FALSE,FALSE,FALSE,Expansion Set: Dorrie and the Wrecked Ship,69.85054803
+Pack Inicial: Aventuras con Peach,LEGO® Super Mario™,1499,0,6,354,4.3,FALSE,FALSE,FALSE,Starter Pack: Adventures with Peach,91.12791253
+Set de Expansión: Batalla contra Bowsitos en el castillo,LEGO® Super Mario™,2799,0,8,1321,4.5,FALSE,FALSE,FALSE,Expansion Set: Battle against Bowsitos in the castle,170.1581235
+Set de Expansión: Fortalezas aéreas de Larry y Morton,LEGO® Super Mario™,1999,0,8,1062,5,FALSE,FALSE,FALSE,Expansion Set: Larry and Morton's Air Fortresses,121.5241475
+Set de Expansión: Cabezazo del Picacóndor,LEGO® Super Mario™,349,30,6,130,4.5,FALSE,FALSE,FALSE,Expansion Set: Picacóndor Headbutt,21.21657203
+Set de Expansión: Casa del árbol de Donkey Kong,LEGO® Super Mario™,1499,0,8,555,4.9,FALSE,FALSE,FALSE,Expansion Set: Donkey Kong Treehouse,91.12791253
+Set de Expansión: Castillo de Peach,LEGO® Super Mario™,3499,0,8,1216,2.9,FALSE,FALSE,FALSE,Expansion Set: Peach's Castle,212.7128525
+Pack Inicial: Aventuras con Luigi,LEGO® Super Mario™,1499,0,6,280,4.8,FALSE,FALSE,FALSE,Starter Pack: Adventures with Luigi,91.12791253
+Set de Expansión: Desafío en las nubes del Gran Spike,LEGO® Super Mario™,1899,30,7,540,3.4,FALSE,FALSE,FALSE,Expansion Set: Great Spike's Cloud Challenge,115.4449005
+Set de Expansión: Traje de Mario de Hielo y Mundo Helado,LEGO® Super Mario™,599,20,6,105,4.5,FALSE,FALSE,FALSE,Expansion Set: Ice Mario Suit and Frozen World,36.41468953
+Set de Expansión: Zapato Goomba,LEGO® Super Mario™,259,30,6,76,4.5,FALSE,FALSE,FALSE,Expansion Set: Goomba Shoe,15.74524973
+"Set de Expansión: Rambi, el rinoceronte",LEGO® Super Mario™,279,0,7,106,4,FALSE,FALSE,FALSE,Expansion Set: Rambi the Rhino,16.96109913
+Set de Expansión: Casa-regalo de Yoshi,LEGO® Super Mario™,799,30,6,246,5,FALSE,FALSE,FALSE,Expansion Set: Yoshi's Gift House,48.57318353
+Set de Expansión: Torre de Hielo y Traje de Peach Felina,LEGO® Super Mario™,2099,30,7,494,5,FALSE,FALSE,FALSE,Expansion Set: Ice Tower and Feline Peach Outfit,127.6033945
+Set de Expansión: Gran ola de lava,LEGO® Super Mario™,849,20,7,218,4.9,FALSE,FALSE,FALSE,Expansion Set: Great Wave of Lava,51.61280703
+Set de Expansión: Vagoneta minera de Diddy Kong,LEGO® Super Mario™,2799,0,8,1157,5,FALSE,FALSE,FALSE,Expansion Set: Diddy Kong's Mining Cart,170.1581235
+Set de Expansión: Pícnic en casa de Mario,LEGO® Super Mario™,949,0,6,259,4.7,FALSE,FALSE,FALSE,Expansion Set: Picnic at Mario's House,57.69205403
+Set de Expansión: Aventura en la nieve de la Morsik,LEGO® Super Mario™,1599,20,7,567,4.9,FALSE,FALSE,FALSE,Expansion Set: Morsik's Snow Adventure,97.20715953
+Set de Expansión: Paseo en globo por el jardín de Peach,LEGO® Super Mario™,1299,0,7,453,4.9,FALSE,FALSE,FALSE,Expansion Set: Peach's Garden Balloon Ride,78.96941853
+Set de Expansión: Jaleo en la jungla con Dixie Kong,LEGO® Super Mario™,679,0,7,174,4.7,FALSE,FALSE,FALSE,Expansion Set: Jungle Rush with Dixie Kong,41.27808713
+Set de Creación: Caja de herramientas creativas,LEGO® Super Mario™,1499,20,6,588,5,FALSE,FALSE,FALSE,Creation Set: Creative Toolbox,91.12791253
+Packs de Personajes: Edición 6,LEGO® Super Mario™,159,30,7,52,3.9,FALSE,FALSE,FALSE,Character Packs: Edition 6,9.66600273
+Set de Expansión: Gran Isla del Mal,LEGO® Super Mario™,1099,30,7,354,4.9,FALSE,FALSE,FALSE,Expansion Set: Great Evil Island,66.81092453
+EL SEÑOR DE LOS ANILLOS: RIVENDEL,Lord of the Rings™,12499,0,18,6167,4.9,FALSE,FALSE,TRUE,THE LORD OF THE RINGS: RIVENDEL,759.8450825
+Aragorn™ y Arwen™,Lord of the Rings™,499,20,10,261,5,FALSE,FALSE,FALSE,Aragorn™ and Arwen™,30.33544253
+Frodo™ y Gollum™,Lord of the Rings™,359,20,10,184,4.7,FALSE,FALSE,FALSE,Frodo™ and Gollum™,21.82449673
+Gandalf el Gris y Balrog™,Lord of the Rings™,499,0,10,348,4.7,FALSE,FALSE,FALSE,Gandalf the Gray and Balrog™,30.33544253
+Torre de los Vengadores,Marvel,12499,0,18,5201,4.8,FALSE,FALSE,TRUE,Avengers Tower,759.8450825
+Batalla Final de Spider-Man,Marvel,2799,0,10,900,4.8,FALSE,FALSE,FALSE,Spider-Man Final Battle,170.1581235
+Spiderman vs. Sandman: Batalla Final,Marvel,949,0,10,347,5,FALSE,FALSE,FALSE,Spiderman vs. Sandman: Final Battle,57.69205403
+X-Jet de los X-Men,Marvel,2199,0,8,359,2.5,FALSE,FALSE,FALSE,X-Jet from the X-Men,133.6826415
+Máscara de Spider-Man,Marvel,1799,0,18,487,,FALSE,FALSE,TRUE,Spider-Man mask,109.3656535
+Daily Bugle,Marvel,8699,0,18,3772,4.6,FALSE,FALSE,TRUE,Daily Bugle,528.8336965
+Guantelete del Infinito,Marvel,1999,0,18,590,5,FALSE,FALSE,TRUE,Infinity Gauntlet,121.5241475
+Llavero de Miles Morales,Marvel,149,0,6,1,5,TRUE,FALSE,FALSE,Miles Morales Keychain,9.05807803
+Escudo del Capitán América,Marvel,4999,0,18,3128,4.7,FALSE,FALSE,TRUE,Captain America shield,303.9015575
+Santuario,Marvel,6199,30,18,2708,4.6,FALSE,FALSE,TRUE,Sanctuary,376.8525215
+Armadura Robótica de Máquina de Guerra,Marvel,349,0,6,154,,FALSE,FALSE,FALSE,War Machine Robotic Armor,21.21657203
+Persecución en Moto: Spider-Man vs. Doc Ock,Marvel,259,0,6,77,,FALSE,FALSE,FALSE,Motorcycle Chase: Spider-Man vs. Doc Ock,15.74524973
+Figura de Miles Morales,Marvel,649,30,8,238,4.5,FALSE,FALSE,FALSE,Miles Morales figure,39.45431303
+Quinjet de los Vengadores,Marvel,2599,0,9,795,4.8,FALSE,FALSE,FALSE,Avengers Quinjet,157.9996295
+Hulkbuster: Batalla de Wakanda,Marvel,1299,0,8,385,4,FALSE,FALSE,FALSE,Hulkbuster: Battle of Wakanda,78.96941853
+Nanoguantelete,Marvel,1799,0,18,675,4.4,FALSE,FALSE,TRUE,Nanogauntlet,109.3656535
+Martillo de Thor,Marvel,2599,0,18,979,4.4,FALSE,FALSE,TRUE,Thor's hammer,157.9996295
+El Increíble Spider-Man,Marvel,4999,0,18,2099,5,FALSE,FALSE,TRUE,The Incredible Spider-Man,303.9015575
+Armadura Robótica de Venom vs. Miles Morales,Marvel,349,0,6,134,,FALSE,FALSE,FALSE,Venom vs. Robotic Armor Miles Morales,21.21657203
+Figura de Spider-Man,Marvel,649,0,8,258,5,FALSE,FALSE,FALSE,Spider-Man figure,39.45431303
+Nave de Baby Rocket,Marvel,849,0,8,330,4.8,FALSE,FALSE,FALSE,Baby Rocket Ship,51.61280703
+Base de los Guardianes de la Galaxia,Marvel,259,0,7,67,4.6,FALSE,FALSE,FALSE,Guardians of the Galaxy Base,15.74524973
+Llavero de Spider-Man,Marvel,149,0,6,1,,TRUE,FALSE,FALSE,Spider-Man keychain,9.05807803
+Rocket y Bebé Groot,Marvel,1499,0,10,566,5,FALSE,FALSE,FALSE,Rocket and Baby Groot,91.12791253
+Llavero de Loki,Marvel,149,0,6,1,,TRUE,FALSE,FALSE,Loki keychain,9.05807803
+Coche de Carreras de Spider-Man y Duende Verde Venomizado,Marvel,869,0,7,227,,FALSE,FALSE,FALSE,Spider-Man and Venomized Green Goblin Racing Car,52.82865643
+Llavero de la Bruja Escarlata,Marvel,149,0,6,1,4.5,TRUE,FALSE,FALSE,Scarlet Witch Keychain,9.05807803
+Llavero de Spider Fantasma,Marvel,149,0,6,1,,TRUE,FALSE,FALSE,Ghost Spider Keychain,9.05807803
+Warbird de Rocket vs. Ronan,Marvel,949,0,8,290,,FALSE,FALSE,FALSE,Rocket vs. Warbird Ronan,57.69205403
+Calendario de Adviento de Los Vengadores,Marvel,1149,30,7,243,1.9,FALSE,FALSE,FALSE,Avengers Advent Calendar,69.85054803
+Yo Soy Groot,Marvel,1399,0,10,476,4.5,FALSE,FALSE,FALSE,I am Groot,85.04866553
+Hulkbuster​,Marvel,12999,20,18,4049,3.8,FALSE,FALSE,TRUE,Hulkbuster,790.2413175
+Meca y Moto del Motorista Fantasma,Marvel,849,0,7,264,4.8,FALSE,FALSE,FALSE,Ghost Rider's Mecca and Motorcycle,51.61280703
+Figura de Venom,Marvel,649,30,8,297,4.4,FALSE,FALSE,FALSE,Venom figure,39.45431303
+Cuartel General Arácnido del Equipo Spidey,Marvel,1399,0,4,193,,FALSE,FALSE,FALSE,Team Spidey's Spider Headquarters,85.04866553
+Armadura Robótica de Thanos,Marvel,349,30,6,113,4.3,FALSE,FALSE,FALSE,Thanos Robotic Armor,21.21657203
+Armería de Iron Man,Marvel,2399,30,7,496,2.8,FALSE,FALSE,FALSE,Iron Man Armory,145.8411355
+Groot Venomizado,Marvel,1299,0,10,630,4.5,FALSE,FALSE,FALSE,Venomized Groot,78.96941853
+Motos de Viuda Negra y el Capitán América,Marvel,399,0,6,130,4.6,FALSE,FALSE,FALSE,Black Widow and Captain America motorcycles,24.25619553
+Batalla Final de Endgame,Marvel,2599,30,10,794,4.6,FALSE,FALSE,FALSE,Endgame Final Battle,157.9996295
+Black Panther,Marvel,8699,40,18,2961,3.8,FALSE,FALSE,TRUE,Black Panther,528.8336965
+Armadura Robótica de Rocket,Marvel,349,0,6,98,4.2,FALSE,FALSE,FALSE,Robotic Rocket Armor,21.21657203
+Base Móvil del Equipo Spidey,Marvel,1299,0,4,187,5,FALSE,FALSE,FALSE,Team Spidey Mobile Base,78.96941853
+Spidey vs. Duende Verde,Marvel,499,0,4,84,,FALSE,FALSE,FALSE,Spidey vs. Green Goblin,30.33544253
+Hoopty,Marvel,2299,0,8,420,2.7,FALSE,FALSE,FALSE,Hoopty,139.7618885
+Llavero de Groot,Marvel,149,0,6,1,,TRUE,FALSE,FALSE,Groot Keychain,9.05807803
+Figura para Construir: Lobezno,Marvel,829,0,8,327,4.6,FALSE,FALSE,FALSE,Buildable Figure: Wolverine,50.39695763
+Figura para Construir: Capitán América,Marvel,829,0,8,310,4.8,FALSE,FALSE,FALSE,Buildable Figure: Captain America,50.39695763
+Garras de Adamantium de Wolverine,Marvel,1799,0,18,596,4.3,FALSE,FALSE,TRUE,Wolverine's Adamantium Claws,109.3656535
+Llavero de Black Panther,Marvel,149,30,6,1,5,TRUE,FALSE,FALSE,Black Panther Keychain,9.05807803
+Llavero de Iron Man,Marvel,149,0,6,1,,TRUE,FALSE,FALSE,Iron Man Keychain,9.05807803
+Casco de Star-Lord,Marvel,1999,0,18,602,4.5,FALSE,FALSE,TRUE,Star-Lord Helmet,121.5241475
+Venom,Marvel,1799,0,18,565,4.2,FALSE,FALSE,TRUE,Venom,109.3656535
+Figura de Iron Man,Marvel,1099,0,9,381,4.7,FALSE,FALSE,FALSE,Iron Man figure,66.81092453
+Coche de Spider-Man y Doc Ock,Marvel,259,0,4,48,5,FALSE,FALSE,FALSE,Spider-Man and Doc Ock's car,15.74524973
+LEGO® Minifigures Marvel: 2ª Edición,Marvel,129,30,5,10,2.2,FALSE,FALSE,FALSE,LEGO® Minifigures Marvel: 2nd Edition,7.84222863
+Sala del Trono del Rey Namor,Marvel,799,0,7,355,4,FALSE,FALSE,FALSE,King Namor's Throne Room,48.57318353
+Miles Morales vs. Morbius,Marvel,599,0,7,220,4.9,FALSE,FALSE,FALSE,Miles Morales vs. Morbius,36.41468953
+Figura para Construir: Ant-Man,Marvel,849,0,8,289,4.7,FALSE,FALSE,FALSE,Buildable Figure: Ant-Man,51.61280703
+Ataque sobre Nuevo Asgard,Marvel,529,30,7,159,5,FALSE,FALSE,FALSE,Attack on New Asgard,32.15921663
+Llavero de Carnage,Marvel,149,30,6,1,5,TRUE,FALSE,FALSE,Carnage Keychain,9.05807803
+Cuartel General Arácnido de Spider-Man,Marvel,1299,0,4,155,5,FALSE,FALSE,FALSE,Spider-Man's Arachnid Headquarters,78.96941853
+Black Panther: Guerra en las Aguas,Marvel,2299,30,8,545,3.6,FALSE,FALSE,FALSE,Black Panther: War in the Waters,139.7618885
+Iron Spider-Man,Marvel,249,0,10,91,,FALSE,FALSE,FALSE,Iron Spider-Man,15.13732503
+Llavero de la Capitana Marvel,Marvel,149,20,6,1,4,TRUE,FALSE,FALSE,Captain Marvel Keychain,9.05807803
+Camiones de Combate de Hulk y Rino,Marvel,529,0,4,110,4.8,FALSE,FALSE,FALSE,Hulk and Rhino Battle Trucks,32.15921663
+Hulkbuster de Iron Man vs. Thanos,Marvel,679,0,4,66,4.3,FALSE,FALSE,FALSE,Hulkbuster from Iron Man vs. Thanos,41.27808713
+Sunbird de Shuri,Marvel,1299,30,8,355,4,FALSE,FALSE,FALSE,Shuri Sunbird,78.96941853
+Laboratorio de Shuri,Marvel,259,0,4,58,4.6,FALSE,FALSE,FALSE,Shuri's Laboratory,15.74524973
+Nave de los Guardianes,Marvel,3999,30,14,1901,4.8,FALSE,FALSE,TRUE,Guardian Ship,243.1090875
+Nave de los Nuevos Guardianes,Marvel,2599,20,10,1108,4.6,FALSE,FALSE,FALSE,Ship of the New Guardians,157.9996295
+Miles Morales: Tecnotrike de Spider-Man,Marvel,259,30,4,59,4.8,FALSE,FALSE,FALSE,Miles Morales: Spider-Man's Tecnotrike,15.74524973
+Barco Caprino,Marvel,1499,30,8,564,4.7,FALSE,FALSE,FALSE,Goat Boat,91.12791253
+Llavero de Spider-Ham,Marvel,149,30,6,1,4.3,TRUE,FALSE,FALSE,Spider-Ham Keychain,9.05807803
+La Batalla en la Oscuridad Profunda,Minecraft®,1599,0,8,584,4.8,FALSE,FALSE,FALSE,The Battle in the Deep Dark,97.20715953
+La Fortificación-Espada,Minecraft®,1099,0,8,427,4.9,FALSE,FALSE,FALSE,The Fortification-Sword,66.81092453
+La Cabaña-Abeja,Minecraft®,599,0,8,254,5,FALSE,FALSE,FALSE,The Bee Cabin,36.41468953
+La Armería,Minecraft®,469,0,7,203,5,FALSE,FALSE,FALSE,The Armory,28.51166843
+El Santuario de Animales,Minecraft®,469,0,7,206,,FALSE,FALSE,FALSE,The Animal Sanctuary,28.51166843
+El Pueblo-Llama,Minecraft®,3499,0,9,1252,4.4,FALSE,FALSE,FALSE,The Flame People,212.7128525
+La Mina Abandonada,Minecraft®,469,0,7,248,4.9,FALSE,FALSE,FALSE,The Abandoned Mine,28.51166843
+La Casa-Ajolote,Minecraft®,679,0,7,242,4.6,FALSE,FALSE,FALSE,The Axolotl House,41.27808713
+La Aventura en el Pantano,Minecraft®,259,0,7,65,5,FALSE,FALSE,FALSE,The Adventure in the Swamp,15.74524973
+La Fortaleza del Gólem de Hierro,Minecraft®,2799,30,9,868,4.9,FALSE,FALSE,FALSE,The Iron Golem Fortress,170.1581235
+El Refugio-Zorro,Minecraft®,529,0,8,193,4.9,FALSE,FALSE,FALSE,The Fox Shelter,32.15921663
+El Arrecife de Coral,Minecraft®,249,0,7,92,4.8,FALSE,FALSE,FALSE,The Coral Reef,15.13732503
+El Bastión del Nether,Minecraft®,999,0,8,300,4.8,FALSE,FALSE,FALSE,The Nether Bastion,60.73167753
+La Casa-Champiñón,Minecraft®,529,0,8,272,4.9,FALSE,FALSE,FALSE,The Mushroom House,32.15921663
+El Portal en Ruinas,Minecraft®,749,0,8,316,4.5,FALSE,FALSE,FALSE,The Portal in Ruins,45.53356003
+La Aldea Abandonada,Minecraft®,1099,0,8,422,4.4,FALSE,FALSE,FALSE,The Abandoned Village,66.81092453
+El Rancho-Conejo,Minecraft®,799,0,8,340,4.8,FALSE,FALSE,FALSE,The Rabbit Ranch,48.57318353
+La Mazmorra del Esqueleto,Minecraft®,999,0,8,364,5,FALSE,FALSE,FALSE,The Skeleton Dungeon,60.73167753
+La Casa-Tortuga de la Playa,Minecraft®,679,0,8,234,,FALSE,FALSE,FALSE,The Beach Turtle House,41.27808713
+La Expedición de Steve al Desierto,Minecraft®,279,0,6,75,,FALSE,FALSE,FALSE,Steve's Desert Expedition,16.96109913
+El Combate en el End,Minecraft®,599,0,8,252,4.9,FALSE,FALSE,FALSE,The Combat at the End,36.41468953
+La Emboscada en el Portal del Nether,Minecraft®,949,0,8,352,,FALSE,FALSE,FALSE,The Ambush at the Nether Portal,57.69205403
+El Duelo contra el Devorador,Minecraft®,1149,0,8,420,,FALSE,FALSE,FALSE,The Duel against the Devourer,69.85054803
+Llavero de Creeper™,Minecraft®,149,30,6,1,5,TRUE,FALSE,FALSE,Creeper™ Keychain,9.05807803
+La Casa-Rana,Minecraft®,1399,0,8,400,,FALSE,FALSE,FALSE,The Frog-House,85.04866553
+La Casa-Cerdo,Minecraft®,1299,0,8,490,4.5,FALSE,FALSE,FALSE,The Pig House,78.96941853
+La Pastelería,Minecraft®,649,0,8,154,4.5,FALSE,FALSE,FALSE,The bakery,39.45431303
+Llavero de Steve,Minecraft®,149,30,6,1,,TRUE,FALSE,FALSE,Steve Keychain,9.05807803
+Caja Modular 4.0,Minecraft®,1999,30,8,605,5,FALSE,FALSE,FALSE,Modular Box 4.0,121.5241475
+El Refugio-Panda,Minecraft®,1299,0,8,553,4.9,FALSE,FALSE,FALSE,The Panda-Shelter,78.96941853
+La Granja-Calabaza,Minecraft®,999,30,8,257,4.9,FALSE,FALSE,FALSE,The Pumpkin Farm,60.73167753
+El Castillo de Hielo,Minecraft®,1299,0,8,499,4.9,FALSE,FALSE,FALSE,The Ice Castle,78.96941853
+Zombi,Minecraft®,249,30,10,81,4.6,FALSE,FALSE,FALSE,Zombie,15.13732503
+La Batalla contra el Guardián,Minecraft®,649,0,8,255,4.9,FALSE,FALSE,FALSE,The Battle against the Guardian,39.45431303
+El Campo de Entrenamiento,Minecraft®,1999,0,8,534,4.8,FALSE,FALSE,FALSE,The Training Camp,121.5241475
+Los Picos de Hielo,Minecraft®,849,0,8,304,4.8,FALSE,FALSE,FALSE,The Ice Peaks,51.61280703
+Llavero de Piglin,Minecraft®,149,30,6,1,,TRUE,FALSE,FALSE,Piglin Keychain,9.05807803
+El Granero Rojo,Minecraft®,2599,30,9,799,4.9,FALSE,FALSE,FALSE,The Red Barn,157.9996295
+La Emboscada del Creeper™,Minecraft®,259,0,7,72,4.5,FALSE,FALSE,FALSE,The Creeper™ Ambush,15.74524973
+Llama,Minecraft®,249,30,10,100,4.9,FALSE,FALSE,FALSE,Calls,15.13732503
+Alex,Minecraft®,249,30,10,86,5,FALSE,FALSE,FALSE,Alex,15.13732503
+LEGO® Minifigures: 25ª Edición,Minifiguras,119,0,5,9,2.1,FALSE,TRUE,FALSE,LEGO® Minifigures: 25th Edition,7.23430393
+LEGO® Minifigures: 25ª Edición (paquete de 6),Minifiguras,714,0,5,52,1,FALSE,TRUE,FALSE,LEGO® Minifigures: 25th Edition (6-pack),43.40582358
+Minifigura LEGO® Gigante,Minifiguras,1199,0,10,654,4.7,FALSE,TRUE,FALSE,Giant LEGO® Minifigure,72.89017153
+LEGO® Minifigures: 24ª Edición,Minifiguras,129,30,5,8,3,FALSE,TRUE,FALSE,LEGO® Minifigures: 24th Edition,7.84222863
+LEGO® Minifigures Marvel: 2ª Edición,Minifiguras,129,30,5,10,2.2,FALSE,TRUE,FALSE,LEGO® Minifigures Marvel: 2nd Edition,7.84222863
+LEGO® Minifigures: Edición Disney 100,Minifiguras,129,30,5,8,3.4,FALSE,TRUE,FALSE,LEGO® Minifigures: Disney 100 Edition,7.84222863
+LEGO® Minifigures: 24ª Edición (paquete de 6),Minifiguras,654,30,5,51,1,FALSE,TRUE,FALSE,LEGO® Minifigures: 24th Edition (6-pack),39.75827538
+Llavero del Chico Bulldog Francés,Minifiguras,149,0,6,1,3.4,TRUE,TRUE,FALSE,French Bulldog Boy Keychain,9.05807803
+Llavero de la Chica Chile,Minifiguras,149,0,6,1,,TRUE,TRUE,FALSE,Chile Girl Keychain,9.05807803
+Llavero de la Chica Mariquita,Minifiguras,149,20,6,1,5,TRUE,TRUE,FALSE,Ladybug Girl Keychain,9.05807803
+5.º Aniversario de Megápolis,Monkie Kid™,4699,0,10,2330,,FALSE,FALSE,FALSE,5th Anniversary of Megapolis,285.6638165
+Meca-Dragón de Mei,Monkie Kid™,2599,0,9,990,,FALSE,FALSE,FALSE,Mei's Mecha-Dragon,157.9996295
+Meca Ultra de Monkey King,Monkie Kid™,3999,0,10,1705,4.5,FALSE,FALSE,FALSE,Monkey King Ultra Mecca,243.1090875
+Meca Combinado de Monkie Kid,Monkie Kid™,529,0,7,277,4.8,FALSE,FALSE,FALSE,Monkie Kid's Combo Mecca,32.15921663
+Dragón Guardián de Mei,Monkie Kid™,1899,0,9,605,5,FALSE,FALSE,FALSE,Mei's Guardian Dragon,115.4449005
+Reinos Celestiales,Monkie Kid™,4599,30,10,2433,4.7,FALSE,FALSE,FALSE,Celestial Kingdoms,279.5845695
+Reactor-Dragón de Mei,Monkie Kid™,529,0,7,246,5,FALSE,FALSE,FALSE,Mei Dragon-Reactor,32.15921663
+Minimeca de Monkie Kid,Monkie Kid™,1399,0,8,556,,FALSE,FALSE,FALSE,Monkie Kid Mini Mecca,85.04866553
+Vehículos Creativos,Monkie Kid™,869,0,6,390,,FALSE,FALSE,FALSE,Creative Vehicles,52.82865643
+Ciudad de los Faroles,Monkie Kid™,3999,0,9,2187,4.7,FALSE,FALSE,FALSE,City of Lanterns,243.1090875
+Anillo de Fuego de Nezha,Monkie Kid™,2599,30,8,929,4.6,FALSE,FALSE,FALSE,Nezha's Ring of Fire,157.9996295
+Meca de Evil Macaque,Monkie Kid™,2299,30,8,893,4.3,FALSE,FALSE,FALSE,Evil Macaque Mecca,139.7618885
+El Poderoso Azure Lion,Monkie Kid™,1999,0,9,789,5,FALSE,FALSE,FALSE,The Mighty Azure Lion,121.5241475
+Palacio del Dragón del Este,Monkie Kid™,4699,0,10,2364,5,FALSE,FALSE,FALSE,Eastern Dragon Palace,285.6638165
+Bastón Creativo de Monkie Kid,Monkie Kid™,899,33,5,309,5,FALSE,FALSE,FALSE,Monkie Kid Creative Cane,54.65243053
+Dragón del Este,Monkie Kid™,2099,30,8,880,4.8,FALSE,FALSE,FALSE,Eastern Dragon,127.6033945
+Fábrica de Pasteles de Luna de Chang’e,Monkie Kid™,1799,30,8,609,4.3,FALSE,FALSE,FALSE,Chang'e Mooncake Factory,109.3656535
+Guarida del Equipo de Monkie Kid,Monkie Kid™,3699,0,9,1582,4.9,FALSE,FALSE,FALSE,Monkie Kid Team Lair,224.8713465
+Dirigible-Nube de Monkie Kid,Monkie Kid™,1299,0,7,540,5,FALSE,FALSE,FALSE,Monkie Kid's Cloud Airship,78.96941853
+Reactor-Nube de Monkie Kid,Monkie Kid™,1499,30,8,529,4.3,FALSE,FALSE,FALSE,Monkie Kid's Cloud Reactor,91.12791253
+Yellow Tusk Elephant,Monkie Kid™,1999,0,8,844,4,FALSE,FALSE,FALSE,Yellow Tusk Elephant,121.5241475
+Tanque-Toro de Hierro,Monkie Kid™,1299,0,7,430,4.5,FALSE,FALSE,FALSE,Iron Bull Tank,78.96941853
+Furgoneta del Equipo de Monkie Kid,Monkie Kid™,3499,30,9,1406,5,FALSE,FALSE,FALSE,Monkie Kid's Team Van,212.7128525
+Explorador Galáctico de Monkie Kid,Monkie Kid™,3499,30,9,1356,5,FALSE,FALSE,FALSE,Monkie Kid's Galactic Explorer,212.7128525
+Mercados de la Ciudad de NINJAGO®,NINJAGO®,9199,0,14,6163,4.4,FALSE,TRUE,TRUE,NINJAGO® City Markets,559.2299315
+Jardines de la Ciudad de NINJAGO®,NINJAGO®,8499,0,14,5686,4.7,FALSE,TRUE,TRUE,NINJAGO® City Gardens,516.6752025
+Núcleos de Energía del Templo del Dragón,NINJAGO®,2399,0,8,1029,5,FALSE,TRUE,FALSE,Dragon Temple Energy Cores,145.8411355
+Kai Dragon Power: Tornado Spinjitzu,NINJAGO®,279,30,6,72,4,FALSE,TRUE,FALSE,Kai Dragon Power: Tornado Spinjitzu,16.96109913
+Pack de Combate: Meca de Jay,NINJAGO®,259,0,6,78,,FALSE,TRUE,FALSE,Combat Pack: Jay's Mecca,15.74524973
+Lloyd Dragon Power: Ciclón Spinjitzu,NINJAGO®,279,30,6,56,4.8,FALSE,TRUE,FALSE,Lloyd Dragon Power: Cyclone Spinjitzu,16.96109913
+Meca Elemental del Fuego de Kai,NINJAGO®,759,0,7,322,3.7,FALSE,TRUE,FALSE,Kai's Elemental Fire Mecca,46.14148473
+Nya Dragon Power: Derrape Spinjitzu,NINJAGO®,279,30,6,57,3.3,FALSE,TRUE,FALSE,Nya Dragon Power: Spinjitzu Drift,16.96109913
+Dragón Maestro Egalt,NINJAGO®,1799,0,8,532,4.3,FALSE,TRUE,FALSE,Dragon Master Egalt,109.3656535
+Meca Elemental de la Tierra de Cole,NINJAGO®,499,0,7,235,,FALSE,TRUE,FALSE,Cole's Earth Elemental Mecca,30.33544253
+Barco de Asalto Ninja: Carrera Contra el Tiempo,NINJAGO®,3999,0,9,1739,4.6,FALSE,TRUE,FALSE,Ninja Assault Ship: Race Against Time,243.1090875
+Meca Elemental Tecno de Sora,NINJAGO®,499,0,7,209,,FALSE,TRUE,FALSE,Sora's Techno Elemental Mecha,30.33544253
+Sabueso Cazadragones de Imperium,NINJAGO®,499,0,6,198,4.9,FALSE,TRUE,FALSE,Imperium Dragonslayer Hound,30.33544253
+Ataque Rising Dragon de Kai,NINJAGO®,259,0,6,24,,FALSE,TRUE,FALSE,Kai's Rising Dragon Attack,15.74524973
+Dragón de Agua EVO de Nya,NINJAGO®,499,0,6,173,4.9,FALSE,TRUE,FALSE,Nya's EVO Water Dragon,30.33544253
+Dragón de Lava Transformable de Heatwave,NINJAGO®,1399,0,8,479,5,FALSE,TRUE,FALSE,Heatwave Transformable Lava Dragon,85.04866553
+Todoterreno del Dragón de Cole,NINJAGO®,1199,30,8,384,5,FALSE,TRUE,FALSE,Cole's Dragon Offroader,72.89017153
+Moto de Carreras Transformable en Meca de Sora,NINJAGO®,1199,0,8,384,4.9,FALSE,TRUE,FALSE,Transformable Racing Motorcycle in Sora's Mecca,72.89017153
+Zane Dragon Power: Deportivo de Competición Spinjitzu,NINJAGO®,869,0,7,307,5,FALSE,TRUE,FALSE,Zane Dragon Power: Spinjitzu Competition Sports,52.82865643
+Meca de Combate de Arin,NINJAGO®,399,0,4,104,,FALSE,TRUE,FALSE,Arin's Combat Mecha,24.25619553
+Ataque Rising Dragon de Arin,NINJAGO®,259,0,6,27,,FALSE,TRUE,FALSE,Arin's Rising Dragon Attack,15.74524973
+Meca Ninja Ultra Combo,NINJAGO®,2399,30,9,1104,5,FALSE,TRUE,FALSE,Mecha Ninja Ultra Combo,145.8411355
+Ataque Rising Dragon de Nya,NINJAGO®,259,0,6,26,,FALSE,TRUE,FALSE,Nya's Rising Dragon Attack,15.74524973
+Meca de Combate Ninja EVO de Lloyd,NINJAGO®,499,20,6,223,4.7,FALSE,TRUE,FALSE,Lloyd's Ninja EVO Battle Mecha,30.33544253
+Dragón Elemental vs. Meca de la Emperatriz,NINJAGO®,3399,0,9,1038,5,FALSE,TRUE,FALSE,Elemental Dragon vs. Mecca of the Empress,206.6336055
+Mecas del Equipo Ninja de Lloyd y Arin,NINJAGO®,1999,0,9,764,4.9,FALSE,TRUE,FALSE,Lloyd and Arin's Ninja Team Mechs,121.5241475
+Criatura Dragón de Hielo de Zane,NINJAGO®,2599,0,10,973,5,FALSE,TRUE,FALSE,Zane's Ice Dragon Creature,157.9996295
+Dragón Legendario de Lloyd,NINJAGO®,1799,30,8,747,4.9,FALSE,TRUE,FALSE,Lloyd's Legendary Dragon,109.3656535
+Meca Titán de Jay,NINJAGO®,1999,0,9,794,4.9,FALSE,TRUE,FALSE,Jay's Mecha Titan,121.5241475
+Meca Samurái X de Nya,NINJAGO®,3199,30,10,1003,3.6,FALSE,TRUE,FALSE,Mecca Samurai X by Nya,194.4751115
+Templo del Rey Cristal,NINJAGO®,2099,30,8,703,4.3,FALSE,TRUE,FALSE,Temple of the Crystal King,127.6033945
+Moto del Dragón Dorado de Jay,NINJAGO®,529,30,7,137,4.6,FALSE,TRUE,FALSE,Jay's Golden Dragon Bike,32.15921663
+Ultradragón Dorado de Lloyd,NINJAGO®,3999,30,9,989,4.4,FALSE,TRUE,FALSE,Lloyd's Golden Ultra Dragon,243.1090875
+Dragón de Tierra EVO de Cole,NINJAGO®,849,0,7,285,4.8,FALSE,TRUE,FALSE,Cole's EVO Earth Dragon,51.61280703
+Caja Ninja de Ladrillos Creativos,NINJAGO®,1499,0,5,530,4.5,FALSE,TRUE,FALSE,Ninja Box of Creative Bricks,91.12791253
+Moto Callejera Ninja de Lloyd,NINJAGO®,259,0,4,64,4,FALSE,TRUE,FALSE,Lloyd's Ninja Street Bike,15.74524973
+Explorador del Dragón Dorado de Kai,NINJAGO®,2399,30,8,624,4.6,FALSE,TRUE,FALSE,Kai's Golden Dragon Scout,145.8411355
+Deportivo EVO de Lloyd,NINJAGO®,799,30,6,279,4.8,FALSE,TRUE,FALSE,Lloyd's EVO sports car,48.57318353
+Dragón del Trueno EVO de Jay,NINJAGO®,529,30,6,140,4,FALSE,TRUE,FALSE,Jay's Thunder Dragon EVO,32.15921663
+Batalla en Coche y Moto de Kai y Ras,NINJAGO®,499,0,4,103,4.9,FALSE,TRUE,FALSE,Kai and Ras Car and Motorcycle Battle,30.33544253
+Jet del Rayo EVO de Jay,NINJAGO®,259,0,6,146,4.8,FALSE,TRUE,FALSE,Jay's Lightning EVO Jet,15.74524973
+Coche de Carreras Ninja EVO de Kai,NINJAGO®,259,0,6,94,4.8,FALSE,TRUE,FALSE,Kai's Ninja EVO Racing Car,15.74524973
+Deportivo EVO de Jay y Nya,NINJAGO®,1299,0,7,536,4.9,FALSE,TRUE,FALSE,Jay and Nya's EVO sports car,78.96941853
+Batalla por el Dragón Bebé de Nya y Arin,NINJAGO®,869,0,4,157,5,FALSE,TRUE,FALSE,Battle for Nya and Arin's Baby Dragon,52.82865643
+Moto-Meca EVO de Kai,NINJAGO®,1099,0,7,312,4.6,FALSE,TRUE,FALSE,Moto-Meca EVO by Kai,66.81092453
+Rey Cristal,NINJAGO®,1999,30,9,722,4.8,FALSE,TRUE,FALSE,Crystal King,121.5241475
+Templo del Dragón Ninja,NINJAGO®,1099,30,4,161,3.5,FALSE,TRUE,FALSE,Ninja Dragon Temple,66.81092453
+Reactor del Dragón Dorado de Zane,NINJAGO®,799,30,7,258,4.9,FALSE,TRUE,FALSE,Zane's Golden Dragon Reactor,48.57318353
+Templo Dojo Ninja,NINJAGO®,2599,30,8,1394,4.7,FALSE,TRUE,FALSE,Ninja Dojo Temple,157.9996295
+Barco de Asalto Hidro,NINJAGO®,3699,30,9,1159,4.4,FALSE,TRUE,FALSE,Hydro Assault Ship,224.8713465
+Dragón de Agua,NINJAGO®,1999,30,9,737,5,FALSE,TRUE,FALSE,Water dragon,121.5241475
+Meca de Última Generación EVO de Zane,NINJAGO®,259,30,6,95,4.7,FALSE,TRUE,FALSE,Zane's Next Generation EVO Mecha,15.74524973
+Meca Ninja de Lloyd,NINJAGO®,259,30,4,57,4.7,FALSE,TRUE,FALSE,Lloyd's Ninja Mecha,15.74524973
+Dragón del Fuego EVO de Kai,NINJAGO®,799,30,6,204,4,FALSE,TRUE,FALSE,Kai's Fire Dragon EVO,48.57318353
+Piano de Cola,Powered UP,9499,0,18,3662,5,FALSE,TRUE,TRUE,Grand piano,577.4676725
+Luz,Powered UP,259,0,7,1,4.4,FALSE,TRUE,FALSE,Light,15.74524973
+Motor Lineal Mediano,Powered UP,449,0,7,1,2.5,FALSE,TRUE,FALSE,Medium Linear Motor,27.29581903
+Move Hub,Powered UP,1999,0,7,1,3.5,FALSE,TRUE,FALSE,Move Hub,121.5241475
+Sensor de Color y Distancia,Powered UP,329,0,7,1,5,FALSE,TRUE,FALSE,Color and Distance Sensor,20.00072263
+Motor de Tren,Powered UP,329,0,7,7,4.2,FALSE,TRUE,FALSE,Train Engine,20.00072263
+Hub Grande,Powered UP,6299,0,6,2,3,FALSE,TRUE,FALSE,Large Hub,382.9317685
+Casa Encantada de la Feria,Powered UP,7299,0,18,3231,4.5,FALSE,TRUE,TRUE,Haunted Fair House,443.7242385
+Control Remoto,Powered UP,599,0,7,1,3,FALSE,TRUE,FALSE,Remote control,36.41468953
+Huida de Shadow the Hedgehog,Sonic the Hedgehog™,469,0,8,196,5,FALSE,FALSE,FALSE,Escape from Shadow the Hedgehog,28.51166843
+Robot Guardián de Knuckles,Sonic the Hedgehog™,869,0,8,276,,FALSE,FALSE,FALSE,Knuckles Guardian Robot,52.82865643
+Llavero de Sonic the Hedgehog™,Sonic the Hedgehog™,149,0,6,1,5,TRUE,FALSE,FALSE,Sonic the Hedgehog™ Keychain,9.05807803
+Sonic the Hedgehog™ – Green Hill Zone,Sonic the Hedgehog™,1999,0,18,1125,4.6,FALSE,FALSE,TRUE,Sonic the Hedgehog™ – Green Hill Zone,121.5241475
+Sonic the Hedgehog™,Sonic the Hedgehog™,249,0,10,139,5,FALSE,FALSE,FALSE,Sonic the Hedgehog™,15.13732503
+Sonic vs. Robot Death Egg del Dr. Eggman,Sonic the Hedgehog™,1499,30,8,615,4.8,FALSE,FALSE,FALSE,Sonic vs. Dr. Eggman's Robot Death Egg,91.12791253
+Taller y Avión Tornado de Tails,Sonic the Hedgehog™,999,0,6,376,4.9,FALSE,FALSE,FALSE,Tails' Tornado Plane and Workshop,60.73167753
+Sonic: Desafío de la Esfera de Velocidad,Sonic the Hedgehog™,869,0,6,292,4.8,FALSE,FALSE,FALSE,Sonic: Speed ​​Sphere Challenge,52.82865643
+Sonic: Desafío del Looping de Green Hill Zone,Sonic the Hedgehog™,2599,0,8,802,4.6,FALSE,FALSE,FALSE,Sonic: Green Hill Zone Looping Challenge,157.9996295
+Isla de Rescate de Animales de Amy,Sonic the Hedgehog™,1299,20,7,388,4.5,FALSE,FALSE,FALSE,Amy's Island Animal Rescue,78.96941853
+Miles “Tails” Prower,Sonic the Hedgehog™,249,0,10,131,5,FALSE,FALSE,FALSE,Miles “Tails” Prower,15.13732503
+Sonic the Hedgehog™: Knuckles y Shadow,Sonic the Hedgehog™,499,0,10,298,,FALSE,FALSE,FALSE,Sonic the Hedgehog™: Knuckles and Shadow,30.33544253
+Mercedes-AMG F1 W12 E Performance y Mercedes-AMG Project One,Speed Champions,799,0,9,564,4.3,FALSE,FALSE,FALSE,Mercedes-AMG F1 W12 E Performance and Mercedes-AMG Project One,48.57318353
+Nissan Skyline GT-R (R34) de 2 Fast 2 Furious,Speed Champions,599,0,9,319,4.7,FALSE,FALSE,FALSE,Nissan Skyline GT-R (R34) from 2 Fast 2 Furious,36.41468953
+Ferrari 812 Competizione,Speed Champions,599,0,9,261,4.9,FALSE,FALSE,FALSE,Ferrari 812 Competizione,36.41468953
+Porsche 963,Speed Champions,599,0,9,280,4.7,FALSE,FALSE,FALSE,porsche 963,36.41468953
+McLaren Solus GT y McLaren F1 LM,Speed Champions,849,0,9,581,4,FALSE,FALSE,FALSE,McLaren Solus GT and McLaren F1 LM,51.61280703
+Deportivo Ford Mustang Dark Horse,Speed Champions,679,0,9,344,,FALSE,FALSE,FALSE,Sports Ford Mustang Dark Horse,41.27808713
+007 Aston Martin DB5,Speed Champions,529,0,8,298,4.5,FALSE,FALSE,FALSE,007 Aston Martin DB5,32.15921663
+1970 Ferrari 512 M,Speed Champions,529,0,8,291,4.9,FALSE,FALSE,FALSE,1970 Ferrari 512M,32.15921663
+Pagani Utopia,Speed Champions,599,0,9,249,4.8,FALSE,FALSE,FALSE,Pagani Utopia,36.41468953
+Coches de Carreras BMW M4 GT3 y BMW M Hybrid V8,Speed Champions,1149,0,9,676,,FALSE,FALSE,FALSE,BMW M4 GT3 and BMW M Hybrid V8 Racing Cars,69.85054803
+Koenigsegg Jesko,Speed Champions,529,0,7,280,4.8,FALSE,FALSE,FALSE,Koenigsegg Jesko,32.15921663
+Coche de Carreras Audi S1 e-tron quattro,Speed Champions,679,0,9,274,,FALSE,FALSE,FALSE,Audi S1 ​​e-tron quattro racing car,41.27808713
+Lamborghini Countach,Speed Champions,529,0,8,262,4.9,FALSE,FALSE,FALSE,Lamborghini Countach,32.15921663
+Aston Martin Valkyrie AMR Pro y Aston Martin Vantage GT3,Speed Champions,1099,0,9,592,4.4,FALSE,FALSE,FALSE,Aston Martin Valkyrie AMR Pro and Aston Martin Vantage GT3,66.81092453
+Lotus Evija,Speed Champions,529,0,8,247,4.8,FALSE,FALSE,FALSE,Lotus Evija,32.15921663
+Fast & Furious 1970 Dodge Charger R/T,Speed Champions,529,30,8,345,5,FALSE,FALSE,FALSE,Fast & Furious 1970 Dodge Charger R/T,32.15921663
+Toyota GR Supra,Speed Champions,529,0,7,299,4,FALSE,FALSE,FALSE,Toyota GR Supra,32.15921663
+Daily Bugle,Spider-Man,8699,0,18,3772,4.6,FALSE,FALSE,TRUE,Daily Bugle,528.8336965
+Batalla Final de Spider-Man,Spider-Man,2799,0,10,900,4.8,FALSE,FALSE,FALSE,Spider-Man Final Battle,170.1581235
+Llavero de Miles Morales,Spider-Man,149,0,6,1,5,TRUE,FALSE,FALSE,Miles Morales Keychain,9.05807803
+Figura de Miles Morales,Spider-Man,649,30,8,238,4.5,FALSE,FALSE,FALSE,Miles Morales figure,39.45431303
+Llavero de Spider-Man,Spider-Man,149,0,6,1,,TRUE,FALSE,FALSE,Spider-Man keychain,9.05807803
+Llavero de Carnage,Spider-Man,149,30,6,1,5,TRUE,FALSE,FALSE,Carnage Keychain,9.05807803
+Figura de Spider-Man,Spider-Man,649,0,8,258,5,FALSE,FALSE,FALSE,Spider-Man figure,39.45431303
+Camiones de Combate de Hulk y Rino,Spider-Man,529,0,4,110,4.8,FALSE,FALSE,FALSE,Hulk and Rhino Battle Trucks,32.15921663
+Figura de Venom,Spider-Man,649,30,8,297,4.4,FALSE,FALSE,FALSE,Venom figure,39.45431303
+Armadura Robótica de Venom vs. Miles Morales,Spider-Man,349,0,6,134,,FALSE,FALSE,FALSE,Venom vs. Robotic Armor Miles Morales,21.21657203
+Spidey vs. Duende Verde,Spider-Man,499,0,4,84,,FALSE,FALSE,FALSE,Spidey vs. Green Goblin,30.33544253
+Cuartel General Arácnido del Equipo Spidey,Spider-Man,1399,0,4,193,,FALSE,FALSE,FALSE,Team Spidey's Spider Headquarters,85.04866553
+El Increíble Spider-Man,Spider-Man,4999,0,18,2099,5,FALSE,FALSE,TRUE,The Incredible Spider-Man,303.9015575
+Venom,Spider-Man,1799,0,18,565,4.2,FALSE,FALSE,TRUE,Venom,109.3656535
+Coche de Spider-Man y Doc Ock,Spider-Man,259,0,4,48,5,FALSE,FALSE,FALSE,Spider-Man and Doc Ock's car,15.74524973
+Cuartel General Arácnido de Spider-Man,Spider-Man,1299,0,4,155,5,FALSE,FALSE,FALSE,Spider-Man's Arachnid Headquarters,78.96941853
+Base Móvil del Equipo Spidey,Spider-Man,1299,0,4,187,5,FALSE,FALSE,FALSE,Team Spidey Mobile Base,78.96941853
+Casa de Spider-Man,Spider-Man,529,0,2,25,4.9,FALSE,FALSE,FALSE,Spider-Man House,32.15921663
+Equipo Spidey en el Faro del Duende Verde,Spider-Man,849,20,4,149,5,FALSE,FALSE,FALSE,Team Spidey at the Green Goblin Lighthouse,51.61280703
+Llavero de Spider-Ham,Spider-Man,149,30,6,1,4.3,TRUE,FALSE,FALSE,Spider-Ham Keychain,9.05807803
+Miles Morales: Tecnotrike de Spider-Man,Spider-Man,259,30,4,59,4.8,FALSE,FALSE,FALSE,Miles Morales: Spider-Man's Tecnotrike,15.74524973
+Crucero de Ataque Clase Venator de la República,Star Wars™,15499,0,18,5374,4.6,FALSE,FALSE,TRUE,Republic Venator-class Strike Cruiser,942.2224925
+AT-AT™,Star Wars™,19999,0,18,6785,4.2,FALSE,FALSE,TRUE,AT-AT™,1215.788608
+Millennium Falcon™,Star Wars™,19999,0,16,7541,4.5,FALSE,FALSE,TRUE,Millennium Falcon™,1215.788608
+The Razor Crest™,Star Wars™,14499,0,18,6187,4,FALSE,FALSE,TRUE,The Razor Crest™,881.4300225
+Pack de Combate: Soldado Clon y Droide de Combate,Star Wars™,759,0,7,215,4.6,FALSE,FALSE,FALSE,Combat Pack: Clone Trooper and Battle Droid,46.14148473
+Diorama Festivo: Halcón Milenario,Star Wars™,699,30,8,282,4.6,FALSE,FALSE,FALSE,Holiday Diorama: Millennium Falcon,42.49393653
+Caza Estelar Ala-X,Star Wars™,5799,0,18,1953,3.1,FALSE,FALSE,TRUE,X-Wing Starfighter,352.5355335
+Espíritu y Fantasma II,Star Wars™,3999,0,10,1394,4.6,FALSE,FALSE,FALSE,Spirit and Ghost II,243.1090875
+Cañonera de la Guardia de Coruscant,Star Wars™,3699,0,9,1083,3.9,FALSE,FALSE,FALSE,Coruscant Guard Gunship,224.8713465
+Microfighter: Caza Estelar N-1 de The Mandalorian,Star Wars™,399,0,6,88,4.6,FALSE,FALSE,FALSE,Microfighter: Starfighter N-1 from The Mandalorian,24.25619553
+Superdestructor Estelar Ejecutor,Star Wars™,1799,0,18,630,4.8,FALSE,FALSE,TRUE,Super Star Destroyer Executor,109.3656535
+Pack de Combate: Soldados Clon de la 332 de Ahsoka,Star Wars™,499,0,6,108,4,FALSE,FALSE,FALSE,Combat Pack: Ahsoka's 332nd Clone Troopers,30.33544253
+R2-D2™,Star Wars™,5799,0,18,2314,4.4,FALSE,FALSE,TRUE,R2-D2™,352.5355335
+Caza Estelar Jedi de Yoda,Star Wars™,869,0,8,253,4.5,FALSE,FALSE,FALSE,Yoda's Jedi Starfighter,52.82865643
+Lanzadera Jedi T-6 de Ahsoka Tano,Star Wars™,1999,0,9,601,3.9,FALSE,FALSE,FALSE,Ahsoka Tano's T-6 Jedi Shuttle,121.5241475
+Héroes de la Batalla de Endor™,Star Wars™,999,40,10,549,5,FALSE,FALSE,FALSE,Heroes of the Battle of Endor™,60.73167753
+Obi-Wan Kenobi™ y Darth Vader™,Star Wars™,499,0,10,260,4.6,FALSE,FALSE,FALSE,Obi-Wan Kenobi™ and Darth Vader™,30.33544253
+Llavero de Soldado Explorador,Star Wars™,149,0,6,1,5,TRUE,FALSE,FALSE,Scout Soldier Keychain,9.05807803
+Speeder Terrestre de Luke Skywalker,Star Wars™,5799,0,18,1890,4.4,FALSE,FALSE,TRUE,Luke Skywalker's Earth Speeder,352.5355335
+Meca de Soldado de Asalto,Star Wars™,399,0,6,138,4.9,FALSE,FALSE,FALSE,Stormtrooper Mecca,24.25619553
+Caminante AT-TE™,Star Wars™,3699,0,9,1082,4.5,FALSE,FALSE,FALSE,AT-TE™ Walker,224.8713465
+Bombardero TIE,Star Wars™,1599,0,9,625,4.5,FALSE,FALSE,FALSE,TIE bomber,97.20715953
+Halcón Milenario,Star Wars™,4099,0,9,1353,4.6,FALSE,FALSE,FALSE,Millenium Falcon,249.1883345
+El Niño,Star Wars™,2299,0,10,1075,4.6,FALSE,FALSE,FALSE,The boy,139.7618885
+Diorama: Sala del Trono del Emperador,Star Wars™,2599,30,18,807,4,FALSE,FALSE,TRUE,Diorama: Emperor's Throne Room,157.9996295
+Casco de Darth Vader™,Star Wars™,1999,0,18,834,4.7,FALSE,FALSE,TRUE,Darth Vader™ Helmet,121.5241475
+AT-AT™,Star Wars™,4099,0,10,1267,4.2,FALSE,FALSE,FALSE,AT-AT™,249.1883345
+Meca de Darth Vader™,Star Wars™,399,0,6,139,4.6,FALSE,FALSE,FALSE,Darth Vader™ Mecca,24.25619553
+Tanque Araña,Star Wars™,1299,0,9,526,4.6,FALSE,FALSE,FALSE,Spider Tank,78.96941853
+The Crimson Firehawk™,Star Wars™,1299,0,4,136,1,FALSE,FALSE,FALSE,The Crimson Firehawk™,78.96941853
+Llavero de Ahsoka Tano™,Star Wars™,149,0,6,1,4.1,TRUE,FALSE,FALSE,Ahsoka Tano™ Keychain,9.05807803
+Cantina de Mos Eisley,Star Wars™,9499,0,18,3187,4.8,FALSE,FALSE,TRUE,Mos Eisley Cantina,577.4676725
+Transporte Inquisitorial Scythe™,Star Wars™,2599,30,9,924,4.4,FALSE,FALSE,FALSE,Inquisitorial Scythe™ Transport,157.9996295
+Meca de Boba Fett™,Star Wars™,399,0,6,155,4.5,FALSE,FALSE,FALSE,Boba Fett™ Mecca,24.25619553
+Diorama: Duelo de Speeders en Endor™,Star Wars™,1999,30,18,608,3.3,FALSE,FALSE,TRUE,Diorama: Speeder Duel on Endor™,121.5241475
+Caza Ala-X de Luke Skywalker,Star Wars™,1299,0,9,474,4.3,FALSE,FALSE,FALSE,Luke Skywalker's X-Wing Fighter,78.96941853
+Caza Estelar Jedi de Obi-Wan Kenobi,Star Wars™,849,0,7,282,4.4,FALSE,FALSE,FALSE,Obi-Wan Kenobi's Jedi Starfighter,51.61280703
+Caza Colmillo Mandaloriano vs. Interceptor TIE,Star Wars™,2599,0,9,957,4.3,FALSE,FALSE,FALSE,Mandalorian Fang Hunt vs. TIE Interceptor,157.9996295
+Llavero de Stormtrooper™,Star Wars™,149,0,6,1,5,TRUE,FALSE,FALSE,Stormtrooper™ Keychain,9.05807803
+Nave Estelar de Boba Fett,Star Wars™,1299,0,9,593,4.4,FALSE,FALSE,FALSE,Boba Fett's Starship,78.96941853
+Transporte de Cazarrecompensas de The Mandalorian™,Star Wars™,3699,0,10,1023,4.7,FALSE,FALSE,FALSE,The Mandalorian™ Bounty Hunter Transport,224.8713465
+Caza TIE Imperial,Star Wars™,1099,0,8,432,4.7,FALSE,FALSE,FALSE,Imperial TIE Fighter,66.81092453
+Llavero del Mandaloriano,Star Wars™,149,0,6,1,5,TRUE,FALSE,FALSE,Mandalorian keychain,9.05807803
+Llavero de Darth Vader™,Star Wars™,149,0,6,1,,TRUE,FALSE,FALSE,Darth Vader™ Keychain,9.05807803
+Bandido Tusken,Star Wars™,249,0,10,152,4.8,FALSE,FALSE,FALSE,Tusken Bandit,15.13732503
+Microfighter: Nave Estelar de Boba Fett,Star Wars™,259,0,6,85,4.6,FALSE,FALSE,FALSE,Microfighter: Boba Fett's Starship,15.74524973
+Pack de Combate: Soldados Clon de la 501,Star Wars™,529,0,6,119,4.5,FALSE,FALSE,FALSE,Combat Pack: 501st Clone Troopers,32.15921663
+Casco del Capitán Rex,Star Wars™,1799,0,18,854,4.9,FALSE,FALSE,TRUE,Captain Rex Helmet,109.3656535
+Llavero de Grogu™,Star Wars™,149,0,6,1,4.5,TRUE,FALSE,FALSE,Grogu™ Keychain,9.05807803
+Base Rebelde de Yavin 4,Star Wars™,4199,0,8,1066,3.9,FALSE,FALSE,FALSE,Yavin 4 Rebel Base,255.2675815
+The Justifier™,Star Wars™,4099,30,9,1022,4.7,FALSE,FALSE,FALSE,The Justifier™,249.1883345
+Ala-E de la Nueva República vs. Caza Estelar de Shin Hati,Star Wars™,2799,0,9,1056,4.3,FALSE,FALSE,FALSE,New Republic E-Wing vs. Shin Hati Starfighter,170.1581235
+Chewbacca™,Star Wars™,4999,0,18,2319,4.9,FALSE,FALSE,TRUE,Chewbacca™,303.9015575
+Caza Estelar N-1 de The Mandalorian,Star Wars™,1599,0,9,412,3.8,FALSE,FALSE,FALSE,Starfighter N-1 from The Mandalorian,97.20715953
+Casco del Mandaloriano,Star Wars™,1799,0,18,584,4.9,FALSE,FALSE,TRUE,Mandalorian Helmet,109.3656535
+Casco del Comandante Clon Cody,Star Wars™,1799,0,18,766,4.7,FALSE,FALSE,TRUE,Clone Commander Cody's Helmet,109.3656535
+Obi-Wan Kenobi™ vs. Darth Vader™,Star Wars™,1299,0,8,408,3.3,FALSE,FALSE,FALSE,Obi-Wan Kenobi™ vs. Darth Vader™,78.96941853
+LEGO® Star Wars™: Calendario de Adviento 2023,Star Wars™,1149,30,6,320,3.7,FALSE,FALSE,FALSE,LEGO® Star Wars™: Advent Calendar 2023,69.85054803
+Ataque de los Soldados Oscuros,Star Wars™,799,30,8,166,4.5,FALSE,FALSE,FALSE,Attack of the Dark Soldiers,48.57318353
+Ahsoka Tano,Star Wars™,249,30,10,164,4.8,FALSE,FALSE,FALSE,Ahsoka Tano,15.13732503
+AT-ST™ de Hoth™,Star Wars™,1299,0,9,586,4.6,FALSE,FALSE,FALSE,Hoth™ AT-ST™,78.96941853
+Casco de Luke Skywalker™ (Rojo Cinco),Star Wars™,1799,0,18,675,3.8,FALSE,FALSE,TRUE,Luke Skywalker™ Helmet (Red Five),109.3656535
+Tanque de Asalto de la República,Star Wars™,1099,0,7,262,4.4,FALSE,FALSE,FALSE,Republic Assault Tank,66.81092453
+BD-1™,Star Wars™,2599,0,14,1062,4.6,FALSE,FALSE,TRUE,BD-1™,157.9996295
+Templo Jedi de Tenoo,Star Wars™,999,20,4,124,3.8,FALSE,FALSE,FALSE,Tenoo Jedi Temple,60.73167753
+Casco de la Princesa Leia (Boushh™),Star Wars™,1799,0,18,670,5,FALSE,FALSE,TRUE,Princess Leia Helmet (Boushh™),109.3656535
+Caza Snub Pirata,Star Wars™,849,20,8,285,4.3,FALSE,FALSE,FALSE,Pirate Snub Hunt,51.61280703
+Llavero de Fennec Shand™,Star Wars™,149,0,6,1,,TRUE,FALSE,FALSE,Fennec Shand™ Keychain,9.05807803
+Cañonera de la República,Star Wars™,9499,0,18,3292,5,FALSE,FALSE,TRUE,Republic Gunboat,577.4676725
+Diorama: Ataque a la Estrella de la Muerte,Star Wars™,1799,30,18,665,4.9,FALSE,FALSE,TRUE,Diorama: Attack on the Death Star,109.3656535
+Casco de Soldado Oscuro,Star Wars™,1799,0,18,693,4.4,FALSE,FALSE,TRUE,Dark Soldier Helmet,109.3656535
+Sala del Trono de Boba Fett,Star Wars™,2599,30,9,732,5,FALSE,FALSE,FALSE,Boba Fett's Throne Room,157.9996295
+Llavero de Yoda™,Star Wars™,119,0,6,1,4.7,TRUE,FALSE,FALSE,Yoda™ Keychain,7.23430393
+Diorama: Compactador de Basura de la Estrella de la Muerte,Star Wars™,2399,0,18,802,4,FALSE,FALSE,TRUE,Diorama: Death Star Trash Compactor,145.8411355
+Pack de Combate: Soldados de las Nieves,Star Wars™,529,0,6,105,4.3,FALSE,FALSE,FALSE,Combat Pack: Snow Soldiers,32.15921663
+Diorama: Entrenamiento Jedi™ en Dagobah™,Star Wars™,2299,0,18,1000,4.1,FALSE,FALSE,TRUE,Diorama: Jedi™ Training on Dagobah™,139.7618885
+AT-ST™,Star Wars™,799,0,4,87,1.7,FALSE,FALSE,FALSE,AT-ST™,48.57318353
+El Mandaloriano y el Niño,Star Wars™,499,0,10,295,4.7,FALSE,FALSE,FALSE,The Mandalorian and the Child,30.33544253
+Emboscada en Ferrix™,Star Wars™,1799,0,9,679,4.5,FALSE,FALSE,FALSE,Ambush on Ferrix™,109.3656535
+Ferrari Daytona SP3,Technic,10499,0,18,3778,4.1,FALSE,TRUE,TRUE,Ferrari Daytona SP3,638.2601425
+Lamborghini Sián FKP 37,Technic,10499,0,18,3696,4,FALSE,TRUE,TRUE,Lamborghini Sián FKP 37,638.2601425
+Coche de Carreras McLaren Formula 1™,Technic,4999,0,18,1434,4.5,FALSE,TRUE,TRUE,McLaren Formula 1™ Racing Car,303.9015575
+Ford GT 2022,Technic,2999,0,18,1468,4.1,FALSE,TRUE,TRUE,2022 Ford GT,182.3166175
+Porsche 911 RSR,Technic,4299,0,10,1580,4.5,FALSE,TRUE,FALSE,Porsche 911 RSR,261.3468285
+PEUGEOT 9X8 24H Le Mans Hybrid Hypercar,Technic,4999,0,18,1775,4.8,FALSE,TRUE,TRUE,PEUGEOT 9X8 24H Le Mans Hybrid Hypercar,303.9015575
+BMW M 1000 RR,Technic,6199,0,18,1921,4.5,FALSE,TRUE,TRUE,BMW M 1000 RR,376.8525215
+Lamborghini Huracán Tecnica,Technic,1299,0,9,806,4.6,FALSE,TRUE,FALSE,Lamborghini Huracán Tecnica,78.96941853
+Yamaha MT-10 SP,Technic,5799,0,18,1478,4.6,FALSE,TRUE,TRUE,Yamaha MT-10 SP,352.5355335
+Ferrari 488 GTE “AF Corse #51”,Technic,4999,0,18,1684,4.4,FALSE,TRUE,TRUE,Ferrari 488 GTE “AF Corse #51”,303.9015575
+Bugatti Bolide Agile Blue,Technic,1299,0,9,905,4,FALSE,TRUE,FALSE,Bugatti Bolide Agile Blue,78.96941853
+Ford Mustang Shelby® GT500®,Technic,1299,0,9,544,4.2,FALSE,TRUE,FALSE,Ford Mustang Shelby® GT500®,78.96941853
+NEOM McLaren Extreme E Race Car,Technic,679,0,7,252,4,FALSE,TRUE,FALSE,NEOM McLaren Extreme E Race Car,41.27808713
+Grúa sobre Orugas Liebherr LR 13000,Technic,16999,30,18,2883,4.2,FALSE,TRUE,TRUE,Liebherr LR 13000 Crawler Crane,1033.411198
+Bugatti Bolide,Technic,1299,0,9,905,4.4,FALSE,TRUE,FALSE,Bugatti Bolide,78.96941853
+Audi RS Q e-tron,Technic,4299,30,10,914,4.9,FALSE,TRUE,FALSE,Audi RS Q e-tron,261.3468285
+Formula E® Porsche 99X Electric,Technic,1299,0,9,422,5,FALSE,TRUE,FALSE,Formula E® Porsche 99X Electric,78.96941853
+Camión de Residuos Mack® LR Electric,Technic,829,0,8,503,4.5,FALSE,TRUE,FALSE,Mack® LR Electric Waste Truck,50.39695763
+John Deere 9700 Forage Harvester,Technic,999,0,9,559,,FALSE,TRUE,FALSE,John Deere 9700 Forage Harvester,60.73167753
+NASCAR® Next Gen Chevrolet Camaro ZL1,Technic,1299,0,9,672,4.8,FALSE,TRUE,FALSE,NASCAR® Next Gen Chevrolet Camaro ZL1,78.96941853
+Buldócer Pesado,Technic,349,0,7,195,,FALSE,TRUE,FALSE,Heavy Bulldozer,21.21657203
+Buggy de Carreras Todoterreno,Technic,499,0,8,219,,FALSE,TRUE,FALSE,Off-Road Racing Buggy,30.33544253
+Dom's Dodge Charger,Technic,2999,0,10,1077,4.4,FALSE,TRUE,FALSE,Dom's Dodge Charger,182.3166175
+NEOM McLaren Formula E Race Car,Technic,1299,0,9,452,,FALSE,TRUE,FALSE,NEOM McLaren Formula E Race Car,78.96941853
+NASA Mars Rover Perseverance,Technic,2599,0,10,1132,4.7,FALSE,TRUE,FALSE,NASA Mars Rover Perseverance,157.9996295
+Planeta Tierra y Luna en Órbita,Technic,1899,0,10,526,,FALSE,TRUE,FALSE,Planet Earth and Moon in Orbit,115.4449005
+Camión de Trial 4x4 Mercedes-Benz Zetros,Technic,7999,30,12,2129,4.6,FALSE,TRUE,TRUE,Mercedes-Benz Zetros 4x4 Trial Truck,486.2789675
+John Deere 9620R 4WD Tractor,Technic,799,0,8,390,4.8,FALSE,TRUE,FALSE,John Deere 9620R 4WD Tractor,48.57318353
+Nave Espacial de Carga Pesada VTOL LT81,Technic,2799,0,10,1365,,FALSE,TRUE,FALSE,LT81 VTOL Heavy Lift Spacecraft,170.1581235
+Helicóptero de Rescate Airbus H175,Technic,4999,0,11,2001,4.6,FALSE,TRUE,FALSE,Airbus H175 Rescue Helicopter,303.9015575
+Vehículo Transformable Controlado por App,Technic,3999,30,9,772,4.4,FALSE,TRUE,FALSE,App Controlled Transformable Vehicle,243.1090875
+Róver Explorador del Equipo de Marte,Technic,3999,0,11,1599,,FALSE,TRUE,FALSE,Mars Team Rover Explorer,243.1090875
+McLaren Senna GTR™,Technic,1299,0,10,830,5,FALSE,TRUE,FALSE,McLaren Senna GTR™,78.96941853
+Skidder John Deere 948L-II,Technic,4999,0,11,1492,4.8,FALSE,TRUE,FALSE,Skidder John Deere 948L-II,303.9015575
+THE BATMAN: BATMOTO,Technic,1299,0,9,641,4.8,FALSE,TRUE,FALSE,THE BATMAN: BATMOTO,78.96941853
+Monster Jam™ Dragon™,Technic,529,0,7,217,4.8,FALSE,TRUE,FALSE,Monster Jam™ Dragon™,32.15921663
+Cargadora Espacial de Superficie LT78,Technic,869,0,8,435,,FALSE,TRUE,FALSE,LT78 Surface Space Loader,52.82865643
+Camión Remolcador de Gran Tonelaje,Technic,3999,0,11,2017,4.8,FALSE,TRUE,FALSE,Large Tow Truck,243.1090875
+Manipuladora de Materiales,Technic,3999,30,10,835,4.4,FALSE,TRUE,FALSE,Material Handler,243.1090875
+Avión de Bomberos,Technic,2599,0,10,1134,4.5,FALSE,TRUE,FALSE,Fire Plane,157.9996295
+Monster Jam™ Monster Mutt™ Dalmatian,Technic,529,0,7,244,4.9,FALSE,TRUE,FALSE,Monster Jam™ Monster Mutt™ Dalmatian,32.15921663
+Buldócer Cat® D11 Controlado por App,Technic,12499,30,18,3854,4,FALSE,TRUE,TRUE,App Controlled Cat® D11 Bulldozer,759.8450825
+Volquete,Technic,349,0,7,177,4.9,FALSE,TRUE,FALSE,dump truck,21.21657203
+Jeep® Wrangler,Technic,1299,0,9,665,4.6,FALSE,TRUE,FALSE,Jeep® Wrangler,78.96941853
+Vehículo Todoterreno,Technic,2299,30,10,764,4.7,FALSE,TRUE,FALSE,All terrain vehicle,139.7618885
+Monster Jam™ El Toro Loco™,Technic,529,0,7,247,5,FALSE,TRUE,FALSE,Monster Jam™ El Toro Loco™,32.15921663
+Máquina Pisanieves,Technic,349,0,7,178,4.7,FALSE,TRUE,FALSE,Snow Grooming Machine,21.21657203
+Ducati Panigale V4 R,Technic,1999,30,10,646,4.5,FALSE,TRUE,FALSE,Ducati Panigale V4 R,121.5241475
+Moto,Technic,349,30,7,163,4.7,FALSE,TRUE,FALSE,Motorcycle,21.21657203
+THE BATMAN: BATMÓVIL,Technic,2599,30,10,1360,4.7,FALSE,TRUE,FALSE,THE BATMAN: BATMOBILE,157.9996295
+Manipulador Telescópico,Technic,349,30,7,143,4.7,FALSE,TRUE,FALSE,Telescopic Manipulator,21.21657203
+Monster Jam™ Grave Digger™,Technic,469,0,7,212,4.6,FALSE,TRUE,FALSE,Monster Jam™ Grave Digger™,28.51166843
+Tulipanes,Other,249,30,8,111,4.4,FALSE,TRUE,FALSE,Tulips,15.13732503
+Girasoles,Other,349,0,8,191,4.4,FALSE,TRUE,FALSE,Sunflowers,21.21657203
+Rosas,Other,349,0,8,120,4.8,FALSE,TRUE,FALSE,Roses,21.21657203
+Narcisos,Other,349,30,18,216,4.5,FALSE,TRUE,TRUE,Daffodils,21.21657203
+Flores de Cerezo,Other,349,0,8,430,5,FALSE,TRUE,FALSE,Cherry blossoms,21.21657203
+Corazón Decorativo,Other,319,0,9,254,4.9,FALSE,TRUE,FALSE,Decorative Heart,19.39279793
+Flores de Loto,Other,349,0,8,220,4.9,FALSE,TRUE,FALSE,Lotus Flowers,21.21657203
+Cascanueces LEGO®,Other,299,0,8,208,4.7,FALSE,TRUE,FALSE,LEGO® Nutcracker,18.17694853
+Adornos de Pan de Jengibre,Other,299,0,6,190,4.9,FALSE,TRUE,FALSE,Gingerbread Decorations,18.17694853
+Todo el Mundo es Fabuloso,Other,899,0,18,346,4.5,FALSE,TRUE,TRUE,Everyone is Fabulous,54.65243053
+Árbol de Navidad,Other,999,0,12,784,4.4,FALSE,TRUE,TRUE,Christmas tree,60.73167753
+Dragón de la Suerte,Other,2299,0,10,1171,4,FALSE,TRUE,FALSE,Lucky Dragon,139.7618885
+Postal de Japón,Other,359,0,9,262,,FALSE,TRUE,FALSE,Japan Postcard,21.82449673
+Land Rover Classic Defender,Other,339,0,8,150,4.8,FALSE,TRUE,FALSE,Land Rover Classic Defender,20.60864733
+Taxi Amarillo,Other,249,0,7,124,4.2,FALSE,TRUE,FALSE,Yellow Taxi,15.13732503
+Celebración Familiar,Other,3399,0,8,1823,5,FALSE,TRUE,FALSE,Family celebration,206.6336055
+Calendario de Fiestas,Other,749,0,10,345,,FALSE,TRUE,FALSE,Festival Calendar,45.53356003
+Osos Polares en Invierno,Other,299,30,9,312,4.9,FALSE,TRUE,FALSE,Polar Bears in Winter,18.17694853
+Llavero de minifigura dorada LEGO®,Other,119,0,6,1,3.7,TRUE,TRUE,FALSE,LEGO® Gold Minifigure Keychain,7.23430393
+Pícnic de Erizos,Other,319,0,8,166,,FALSE,TRUE,FALSE,Hedgehog Picnic,19.39279793
+Llavero de Chico Cactus,Other,149,30,6,1,3.7,TRUE,TRUE,FALSE,Cactus Boy Keychain,9.05807803
+Piñata,Other,249,0,8,206,4.9,FALSE,TRUE,FALSE,Pinata,15.13732503
+Parque Primaveral de Animales,Other,319,0,8,172,,FALSE,TRUE,FALSE,Spring Animal Park,19.39279793
+Postal de Londres,Other,359,0,9,277,4.8,FALSE,TRUE,FALSE,London postcard,21.82449673
+Trineo de Papá Noel,Other,999,0,9,343,4.8,FALSE,TRUE,FALSE,Santa's sleigh,60.73167753
+Nido de Pájaros,Other,319,0,9,232,4.8,FALSE,TRUE,FALSE,Birds Nest,19.39279793
+Llavero de Piolín,Other,149,20,6,1,,TRUE,TRUE,FALSE,Tweety Keychain,9.05807803
+Corona de Navidad “2 en 1”,Other,999,30,9,510,4.3,FALSE,TRUE,FALSE,Christmas wreath “2 in 1”,60.73167753
+Conejo Lunar,Other,449,0,8,288,5,FALSE,TRUE,FALSE,Moon Rabbit,27.29581903
+Postal de Nueva York,Other,359,0,9,253,4.7,FALSE,TRUE,FALSE,New York Postcard,21.82449673
+Llavero de hombre con disfraz de tiburón,Other,119,0,6,1,2.8,TRUE,TRUE,FALSE,Men's keychain with shark costume,7.23430393
+Llavero de ladrillo LEGO® rojo,Other,119,0,6,1,4.2,TRUE,TRUE,FALSE,Red LEGO® Brick Keychain,7.23430393
+Llavero de Elfo Ayudante Feliz,Other,149,20,6,1,5,TRUE,TRUE,FALSE,Happy Helper Elf Keychain,9.05807803
+Llavero de la Dama de la Libertad,Other,149,0,6,1,4,TRUE,TRUE,FALSE,Lady Liberty Keychain,9.05807803
+Llavero de la Chica con Disfraz de Llama,Other,149,30,6,1,,TRUE,TRUE,FALSE,Girl in Llama Costume Keychain,9.05807803
+Desfile del Año Nuevo Lunar,Other,3399,40,8,1653,3.9,FALSE,TRUE,FALSE,Lunar New Year Parade,206.6336055
+Llavero Blanco Metálico 2x4,Other,149,20,6,1,5,TRUE,TRUE,FALSE,White Metallic Keychain 2x4,9.05807803
+Árbol del Dinero,Other,619,0,9,336,4.5,FALSE,TRUE,FALSE,Money Tree,37.63053893
+Llavero con ladrillo dorado LEGO®,Other,119,0,6,1,4.4,TRUE,TRUE,FALSE,LEGO® Gold Brick Keychain,7.23430393
+Juego de ajedrez,Other,1599,30,9,1450,4.4,FALSE,TRUE,FALSE,Chess game,97.20715953
+Representación Ornamental del Año Nuevo Lunar,Other,2299,40,8,872,4.1,FALSE,TRUE,FALSE,Ornamental Representation of the Lunar New Year,139.7618885
+Postal de Australia,Other,359,0,7,191,3.3,FALSE,TRUE,FALSE,Australia Postcard,21.82449673
+Set de Cumpleaños,Other,319,30,7,141,4.8,FALSE,TRUE,FALSE,Birthday Set,19.39279793
+Tuc-tuc,Other,249,30,7,155,4.6,FALSE,TRUE,FALSE,Knock Knock,15.13732503
+Llavero de Papá Noel Feliz,Other,149,0,6,1,5,TRUE,TRUE,FALSE,Happy Santa Claus Keychain,9.05807803
+Llavero de chica mariposa,Other,119,0,6,1,3.3,TRUE,TRUE,FALSE,Butterfly Girl Keychain,7.23430393
+Llavero del Vendedor de perritos calientes LEGO®,Other,119,0,6,1,5,TRUE,TRUE,FALSE,LEGO® Hot Dog Vendor Keychain,7.23430393
+Tarta de Cumpleaños,Other,339,0,7,211,4.8,FALSE,TRUE,FALSE,Birthday cake,20.60864733
+Iconos de Juego,Other,2499,0,10,899,2.5,FALSE,TRUE,FALSE,Game Icons,151.9203825
+Pingüino de Navidad,Other,349,20,8,244,4.3,FALSE,TRUE,FALSE,Christmas Penguin,21.21657203
+Llavero Azul Tierra 2x4,Other,149,0,6,1,,TRUE,TRUE,FALSE,Earth Blue Keychain 2x4,9.05807803
+Gato y Ratón de Halloween,Other,299,30,9,328,4.8,FALSE,TRUE,FALSE,Halloween Cat and Mouse,18.17694853
+Marco de fotos LEGO® Iconic,Other,339,20,7,268,4.3,FALSE,TRUE,FALSE,LEGO® Iconic Photo Frame,20.60864733
+Conejitos de Pascua,Other,299,30,8,288,4.8,FALSE,TRUE,FALSE,Easter Bunnies,18.17694853
+Flores decorativas LEGO®,Other,119,0,7,100,5,FALSE,TRUE,FALSE,LEGO® decorative flowers,7.23430393
+Tortolitos de San Valentín,Other,299,30,8,298,5,FALSE,TRUE,FALSE,Valentine's Lovebirds,18.17694853
+Llavero del Monstruo de las Galletas,Other,149,20,6,1,,TRUE,TRUE,FALSE,Cookie Monster Keychain,9.05807803
+Ludo LEGO®,Other,699,30,7,389,4.8,FALSE,TRUE,FALSE,LEGO® Ludo,42.49393653
+Paseo navideño en tren LEGO®,Other,199,0,7,169,4.8,FALSE,TRUE,FALSE,LEGO® Christmas Train Ride,12.09770153
+Pack de Oso Polar y Regalo,Other,249,20,7,142,4.4,FALSE,TRUE,FALSE,Polar Bear and Gift Pack,15.13732503
+Horizon Forbidden West: Cuellilargo,Other,2299,0,18,1222,4.8,FALSE,TRUE,TRUE,Horizon Forbidden West: Longneck,139.7618885
+Llavero del Tío Sandía,Other,149,20,6,1,,TRUE,TRUE,FALSE,Uncle Watermelon Keychain,9.05807803
+Pingüino y Copo de Nieve,Other,229,20,7,139,4.2,FALSE,TRUE,FALSE,Penguin and Snowflake,13.92147563
+Llavero de Chica con Disfraz de Elefante,Other,149,0,6,1,5,TRUE,TRUE,FALSE,Girl in Elephant Costume Keychain,9.05807803
+Conejo de Pascua,Other,99,0,6,67,,FALSE,TRUE,FALSE,Easter Bunny,6.01845453
+Postal de París,Other,359,30,9,213,4.8,FALSE,TRUE,FALSE,Paris Postcard,21.82449673
+Torre de los Vengadores,Other,389,0,10,211,3.8,FALSE,TRUE,FALSE,Avengers Tower,23.64827083
+Tren,Other,99,0,6,59,5,FALSE,TRUE,FALSE,Train,6.01845453
+Feria del Templo del Año Nuevo Chino,Other,2499,0,8,1664,4.7,FALSE,TRUE,FALSE,Chinese New Year Temple Fair,151.9203825
+Deportivo Clásico,Other,279,0,8,142,5,FALSE,TRUE,FALSE,Classic Sports,16.96109913
+Adorno navideño: Pingüino,Other,149,0,6,37,5,FALSE,TRUE,FALSE,Christmas Ornament: Penguin,9.05807803
+Set 40 aniversario de los trenes LEGO®,Other,389,0,9,188,,FALSE,TRUE,FALSE,LEGO® Trains 40th Anniversary Set,23.64827083
+Postal de Pekín,Other,359,0,9,276,4.2,FALSE,TRUE,FALSE,Beijing Postcard,21.82449673
+Llavero Creativo,Other,149,0,6,1,,TRUE,TRUE,FALSE,Creative Keychain,9.05807803
+Llavero Verde Metálico 2x4,Other,149,20,6,1,,TRUE,TRUE,FALSE,Metallic Green Keychain 2x4,9.05807803
+Ladrillos Magnéticos 4x4 LEGO®,Other,169,0,6,4,5,FALSE,TRUE,FALSE,LEGO® 4x4 Magnetic Bricks,10.27392743
+Modelo Magnético de Torre Eiffel,Other,219,20,6,29,5,FALSE,TRUE,FALSE,Magnetic Eiffel Tower Model,13.31355093
+Llavero Creativo LEGO®,Other,129,20,6,1,5,TRUE,TRUE,FALSE,LEGO® Creative Keychain,7.84222863
+Llavero de Elmo,Other,149,20,6,1,,TRUE,TRUE,FALSE,Elmo keychain,9.05807803
+China: Llavero de Chica con Flores,Other,149,0,6,1,,TRUE,TRUE,FALSE,China: Flower Girl Keychain,9.05807803
+Llavero del Tío del Cumpleaños,Other,149,20,6,1,5,TRUE,TRUE,FALSE,Birthday Uncle Keychain,9.05807803
+Llavero 2x6 LEGO®,Other,149,0,6,1,,TRUE,TRUE,FALSE,2x6 LEGO® Keychain,9.05807803
+Pareja de Calabaza y Murciélago,Other,219,0,7,131,4.5,FALSE,TRUE,FALSE,Pumpkin and Bat Couple,13.31355093
+Danza del León,Other,1699,0,8,882,5,FALSE,TRUE,FALSE,Lion Dance,103.2864065
+Bola de Pollo Skater,Other,129,0,6,36,,FALSE,TRUE,FALSE,Skater Chicken Ball,7.84222863
+Juego de Artículos Creativos de Papelería LEGO®,Other,339,20,6,18,,FALSE,TRUE,FALSE,LEGO® Creative Stationery Set,20.60864733
+Huevo de Pascua LEGO®,Other,249,0,8,239,5,FALSE,TRUE,FALSE,LEGO® Easter Egg,15.13732503
+Pack de Araña y Casa Encantada,Other,249,20,7,132,4.7,FALSE,TRUE,FALSE,Spider and Haunted House Pack,15.13732503
+Paseo en Carro por Halloween,Other,269,0,7,148,4.9,FALSE,TRUE,FALSE,Halloween Carriage Ride,16.35317443
+Casa del Conejo de Pascua,Other,169,0,6,57,,FALSE,TRUE,FALSE,Easter Bunny House,10.27392743
+Mighty Micros: Supergirl™ vs. Brainiac™,Other,199,20,6,80,,FALSE,TRUE,FALSE,Mighty Micros: Supergirl™ vs. Brainiac™,12.09770153
+Mighty Micros: Batman™ vs. Harley Quinn™,Other,199,20,6,86,5,FALSE,TRUE,FALSE,Mighty Micros: Batman™ vs. Harley Quinn™,12.09770153
