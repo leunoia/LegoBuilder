@@ -1,5 +1,6 @@
 # Replace model.add(LSTM(100)) with model.add(GRU(100, return_sequences=True)) or model.add(Bidirectional(GRU(64, return_sequences=True)))
 # This code is the Transformer model. The line above is for the LSTM model.
+from numpy import transformers 
 from transformers import TFAutoModelForSequenceClassification
 from tensorflow.keras.optimizers import AdamW
 
