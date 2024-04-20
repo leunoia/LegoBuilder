@@ -42,7 +42,7 @@ boltons @ file:///Users/ec2-user/ci_py311/boltons_1678396074811/work
 botocore @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_b0m03dnl83/croot/botocore_1682530185285/work
 Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
 brotlipy==0.7.0
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2emnmf1qow/croot/certifi_1690232232440/work/certifi
+certifi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_dfez5lkpj0/croot/certifi_1707229180975/work/certifi
 cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
 chardet @ file:///Users/ec2-user/ci_py311/chardet_1678326102860/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
@@ -284,6 +284,7 @@ Rtree @ file:///Users/ec2-user/ci_py311/rtree_1678394103092/work
 ruamel-yaml-conda @ file:///Users/ec2-user/ci_py311/ruamel_yaml_1678394125333/work
 ruamel.yaml @ file:///Users/ec2-user/ci_py311/ruamel.yaml_1678379291841/work
 s3fs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f7stwtummt/croot/s3fs_1682551483204/work
+sacremoses @ file:///tmp/build/80754af9/sacremoses_1633107328213/work
 safetensors @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_38r3yuyy3t/croot/safetensors_1692949040105/work
 scikit-image @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3fh5dyitqb/croot/scikit-image_1682530834592/work
 scikit-learn==1.4.2
@@ -331,7 +332,7 @@ toolz @ file:///Users/ec2-user/ci_py311/toolz_1678323009669/work
 tornado @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_aeotsmw12l/croot/tornado_1690848274212/work
 tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_03acd6t6ca/croot/tqdm_1679561866522/work
 traitlets @ file:///Users/ec2-user/ci_py311/traitlets_1678316097905/work
-transformers @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_8ch0ar2_dx/croot/transformers_1693308333741/work
+transformers @ file:///home/conda/feedstock_root/build_artifacts/transformers_1695849014628/work
 Twisted @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_3cf4rqmb9n/croot/twisted_1683796897214/work
 typing_extensions @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_35a9251r5y/croot/typing_extensions_1690297487409/work
 tzdata @ file:///croot/python-tzdata_1690578112552/work
