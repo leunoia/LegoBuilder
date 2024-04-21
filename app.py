@@ -148,6 +148,7 @@ if st.session_state.messages[-1]["role"] != "assistant":
             )
             image_url = response.data[0].url
             st.image(image_url, caption='Your LEGO generated from your string!')
+            st.write("Your LEGO name is: " + setname)
             st.write(response.data[0].url)
             message = {"role": "assistant", "content": response.data[0].url}
             st.session_state.messages.append(message)
